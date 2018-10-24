@@ -9,5 +9,5 @@ See also: http://linkeddatabook.com/editions/1.0/#htoc8
 - Apache Jena
 
 ## Steps
-1. CSV-to-RDF conversion --> Semantic-Webooks/tree/master/scripts/queries/tarql-queries
+1. CSV-to-RDF conversion: scripts/queries/tarql-queries/construct.sparql
 2. SPARQL Queries
