@@ -1,0 +1,1 @@
+time sh ./target/appassembler/bin/tarql --ntriples ../../Semantic-Webooks/scripts/queries/tarql-queries/construct.sparql ../../Semantic-Webooks/data/goodreads_library_export.csv > ../../Semantic-Webooks/scripts/queries/tarql-queries/output.rdf
