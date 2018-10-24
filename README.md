@@ -1,6 +1,6 @@
 # Semantic-Webooks
-This Web semantic project aims to convert open art book data (available on https://www.goodreads.com/) into linked data.
-See also: linkeddatabook.com/editions/1.0/#htoc8
+This Web semantic project aims to convert open art book data (available on http://www.goodreads.com/) into linked data.
+See also: http://linkeddatabook.com/editions/1.0/#htoc8
 
 ## Getting Started
 
