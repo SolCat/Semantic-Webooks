@@ -7,7 +7,7 @@ CONSTRUCT{
     sch:identifier ?Book_Id;
     sch:name ?Title;
     sch:creator ?Author;
-    sch:isbn: ?ISBN13;
+    sch:isbn ?ISBN13;
     sch:aggregateRating ?mark;
     sch:publisher ?Publisher;
     sch:numberOfPages ?nbPages;
