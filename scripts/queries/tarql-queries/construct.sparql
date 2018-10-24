@@ -8,13 +8,13 @@ CONSTRUCT{
     sch:name ?Title;
     sch:creator ?Author;
     sch:isbn ?ISBN13;
-    sch:aggregateRating ?mark;
     sch:publisher ?Publisher;
     sch:numberOfPages ?nbPages;
-    sch:datePublished ?Year_Published.
+    sch:datePublished ?Year_Published;
+    sch:aggregateRating ?aRating.
+  ?aRating sch:ratingValue ?AverageRating.
 }
 WHERE{
-  BIND(URI(CONCAT('https://www.goodreads.com/book/show/',?Book_Id,'-',REPLACE(LCASE(?titre), " ", "-"))) AS ?bookURI)
+  BIND(URI(CONCAT('http://www.goodreads.com/book/show/', (CONCAT(?Book_Id, (CONCAT("-",REPLACE(LCASE(?Title), " ", "-"))))))) AS ?bookURI)
   BIND(xsd:integer(?Number_of_Pages) AS ?nbPages)
-  BIND(xsd:decimal(?Average_Rating) AS ?mark)
 }

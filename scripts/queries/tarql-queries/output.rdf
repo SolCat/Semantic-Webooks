@@ -1,0 +1,1014 @@
+<http://www.goodreads.com/book/show/24569844-japanese-modern-art-painting-from-1910> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/24569844-japanese-modern-art-painting-from-1910> <http://schema.org/identifier> "24569844" .
+<http://www.goodreads.com/book/show/24569844-japanese-modern-art-painting-from-1910> <http://schema.org/name> "Japanese Modern Art Painting From 1910" .
+<http://www.goodreads.com/book/show/24569844-japanese-modern-art-painting-from-1910> <http://schema.org/creator> "Schaarschmidt Richte" .
+<http://www.goodreads.com/book/show/24569844-japanese-modern-art-painting-from-1910> <http://schema.org/publisher> "Edition Stemmle" .
+<http://www.goodreads.com/book/show/24569844-japanese-modern-art-painting-from-1910> <http://schema.org/numberOfPages> "207"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/29092984-the-metropolitan-museum-of-art:-masterpiece-paintings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/29092984-the-metropolitan-museum-of-art:-masterpiece-paintings> <http://schema.org/identifier> "29092984" .
+<http://www.goodreads.com/book/show/29092984-the-metropolitan-museum-of-art:-masterpiece-paintings> <http://schema.org/name> "The Metropolitan Museum of Art: Masterpiece Paintings" .
+<http://www.goodreads.com/book/show/29092984-the-metropolitan-museum-of-art:-masterpiece-paintings> <http://schema.org/creator> "Kathryn Calley Galitz" .
+<http://www.goodreads.com/book/show/29092984-the-metropolitan-museum-of-art:-masterpiece-paintings> <http://schema.org/isbn> "9780847846597" .
+<http://www.goodreads.com/book/show/29092984-the-metropolitan-museum-of-art:-masterpiece-paintings> <http://schema.org/publisher> "Skira Rizzoli" .
+<http://www.goodreads.com/book/show/29092984-the-metropolitan-museum-of-art:-masterpiece-paintings> <http://schema.org/numberOfPages> "544"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/29092984-the-metropolitan-museum-of-art:-masterpiece-paintings> <http://schema.org/datePublished> "2016" .
+<http://www.goodreads.com/book/show/3804994-magritte,-the-true-art-of-painting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/3804994-magritte,-the-true-art-of-painting> <http://schema.org/identifier> "3804994" .
+<http://www.goodreads.com/book/show/3804994-magritte,-the-true-art-of-painting> <http://schema.org/name> "Magritte, The True Art Of Painting" .
+<http://www.goodreads.com/book/show/3804994-magritte,-the-true-art-of-painting> <http://schema.org/creator> "René Magritte" .
+<http://www.goodreads.com/book/show/3804994-magritte,-the-true-art-of-painting> <http://schema.org/publisher> "Abradale/Abrams" .
+<http://www.goodreads.com/book/show/3804994-magritte,-the-true-art-of-painting> <http://schema.org/numberOfPages> "144"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/3804994-magritte,-the-true-art-of-painting> <http://schema.org/datePublished> "1979" .
+<http://www.goodreads.com/book/show/162762-modern-art:-painting,-sculpture,-architecture,-photography> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/162762-modern-art:-painting,-sculpture,-architecture,-photography> <http://schema.org/identifier> "162762" .
+<http://www.goodreads.com/book/show/162762-modern-art:-painting,-sculpture,-architecture,-photography> <http://schema.org/name> "Modern Art: painting, sculpture, architecture, photography" .
+<http://www.goodreads.com/book/show/162762-modern-art:-painting,-sculpture,-architecture,-photography> <http://schema.org/creator> "Sam Hunter" .
+<http://www.goodreads.com/book/show/162762-modern-art:-painting,-sculpture,-architecture,-photography> <http://schema.org/isbn> "9780131895652" .
+<http://www.goodreads.com/book/show/162762-modern-art:-painting,-sculpture,-architecture,-photography> <http://schema.org/publisher> "Pearson" .
+<http://www.goodreads.com/book/show/162762-modern-art:-painting,-sculpture,-architecture,-photography> <http://schema.org/numberOfPages> "480"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/162762-modern-art:-painting,-sculpture,-architecture,-photography> <http://schema.org/datePublished> "2004" .
+<http://www.goodreads.com/book/show/24749864-complete-works-of-pierre-auguste-renoir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/24749864-complete-works-of-pierre-auguste-renoir> <http://schema.org/identifier> "24749864" .
+<http://www.goodreads.com/book/show/24749864-complete-works-of-pierre-auguste-renoir> <http://schema.org/name> "Complete Works of Pierre-Auguste Renoir" .
+<http://www.goodreads.com/book/show/24749864-complete-works-of-pierre-auguste-renoir> <http://schema.org/creator> "Pierre-Auguste Renoir" .
+<http://www.goodreads.com/book/show/24749864-complete-works-of-pierre-auguste-renoir> <http://schema.org/publisher> "Delphi Classics" .
+<http://www.goodreads.com/book/show/24749864-complete-works-of-pierre-auguste-renoir> <http://schema.org/numberOfPages> "1751"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/24749864-complete-works-of-pierre-auguste-renoir> <http://schema.org/datePublished> "2015" .
+<http://www.goodreads.com/book/show/23875115-complete-works-of-michelangelo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/23875115-complete-works-of-michelangelo> <http://schema.org/identifier> "23875115" .
+<http://www.goodreads.com/book/show/23875115-complete-works-of-michelangelo> <http://schema.org/name> "Complete Works of Michelangelo" .
+<http://www.goodreads.com/book/show/23875115-complete-works-of-michelangelo> <http://schema.org/creator> "Michelangelo Buonarroti" .
+<http://www.goodreads.com/book/show/23875115-complete-works-of-michelangelo> <http://schema.org/publisher> "Delphi Classics" .
+<http://www.goodreads.com/book/show/23875115-complete-works-of-michelangelo> <http://schema.org/numberOfPages> "2007"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/23875115-complete-works-of-michelangelo> <http://schema.org/datePublished> "2014" .
+<http://www.goodreads.com/book/show/23385792-complete-works-of-rembrandt-van-rijn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/23385792-complete-works-of-rembrandt-van-rijn> <http://schema.org/identifier> "23385792" .
+<http://www.goodreads.com/book/show/23385792-complete-works-of-rembrandt-van-rijn> <http://schema.org/name> "Complete Works of Rembrandt van Rijn" .
+<http://www.goodreads.com/book/show/23385792-complete-works-of-rembrandt-van-rijn> <http://schema.org/creator> "Rembrandt van Rijn" .
+<http://www.goodreads.com/book/show/23385792-complete-works-of-rembrandt-van-rijn> <http://schema.org/publisher> "Delphi Classics" .
+<http://www.goodreads.com/book/show/23385792-complete-works-of-rembrandt-van-rijn> <http://schema.org/numberOfPages> "1445"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/23385792-complete-works-of-rembrandt-van-rijn> <http://schema.org/datePublished> "2014" .
+<http://www.goodreads.com/book/show/23534962-complete-paintings-of-dante-gabriel-rossetti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/23534962-complete-paintings-of-dante-gabriel-rossetti> <http://schema.org/identifier> "23534962" .
+<http://www.goodreads.com/book/show/23534962-complete-paintings-of-dante-gabriel-rossetti> <http://schema.org/name> "Complete Paintings of Dante Gabriel Rossetti" .
+<http://www.goodreads.com/book/show/23534962-complete-paintings-of-dante-gabriel-rossetti> <http://schema.org/creator> "Dante Gabriel Rossetti" .
+<http://www.goodreads.com/book/show/23534962-complete-paintings-of-dante-gabriel-rossetti> <http://schema.org/publisher> "Delphi Classics" .
+<http://www.goodreads.com/book/show/23534962-complete-paintings-of-dante-gabriel-rossetti> <http://schema.org/numberOfPages> "864"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/23534962-complete-paintings-of-dante-gabriel-rossetti> <http://schema.org/datePublished> "2014" .
+<http://www.goodreads.com/book/show/23812731-complete-works-of-gustav-klimt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/23812731-complete-works-of-gustav-klimt> <http://schema.org/identifier> "23812731" .
+<http://www.goodreads.com/book/show/23812731-complete-works-of-gustav-klimt> <http://schema.org/name> "Complete Works of Gustav Klimt" .
+<http://www.goodreads.com/book/show/23812731-complete-works-of-gustav-klimt> <http://schema.org/creator> "Gustav Klimt" .
+<http://www.goodreads.com/book/show/23812731-complete-works-of-gustav-klimt> <http://schema.org/publisher> "Delphi Classics" .
+<http://www.goodreads.com/book/show/23812731-complete-works-of-gustav-klimt> <http://schema.org/numberOfPages> "358"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/23812731-complete-works-of-gustav-klimt> <http://schema.org/datePublished> "2014" .
+<http://www.goodreads.com/book/show/22692642-delphi-complete-works-of-caravaggio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/22692642-delphi-complete-works-of-caravaggio> <http://schema.org/identifier> "22692642" .
+<http://www.goodreads.com/book/show/22692642-delphi-complete-works-of-caravaggio> <http://schema.org/name> "Delphi Complete Works of Caravaggio" .
+<http://www.goodreads.com/book/show/22692642-delphi-complete-works-of-caravaggio> <http://schema.org/creator> "Michelangelo Merisi Da Caravaggio" .
+<http://www.goodreads.com/book/show/22692642-delphi-complete-works-of-caravaggio> <http://schema.org/publisher> "Delphi Classics" .
+<http://www.goodreads.com/book/show/22692642-delphi-complete-works-of-caravaggio> <http://schema.org/numberOfPages> "265"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/22692642-delphi-complete-works-of-caravaggio> <http://schema.org/datePublished> "2014" .
+<http://www.goodreads.com/book/show/28550453-collected-works-of-j.-m.-w.-turner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/28550453-collected-works-of-j.-m.-w.-turner> <http://schema.org/identifier> "28550453" .
+<http://www.goodreads.com/book/show/28550453-collected-works-of-j.-m.-w.-turner> <http://schema.org/name> "Collected Works of J. M. W. Turner" .
+<http://www.goodreads.com/book/show/28550453-collected-works-of-j.-m.-w.-turner> <http://schema.org/creator> "J.M.W. Turner" .
+<http://www.goodreads.com/book/show/28550453-collected-works-of-j.-m.-w.-turner> <http://schema.org/publisher> "Delphi Classics" .
+<http://www.goodreads.com/book/show/28550453-collected-works-of-j.-m.-w.-turner> <http://schema.org/numberOfPages> "884"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/28550453-collected-works-of-j.-m.-w.-turner> <http://schema.org/datePublished> "2011" .
+<http://www.goodreads.com/book/show/28549374-collected-works-of-claude-monet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/28549374-collected-works-of-claude-monet> <http://schema.org/identifier> "28549374" .
+<http://www.goodreads.com/book/show/28549374-collected-works-of-claude-monet> <http://schema.org/name> "Collected Works of Claude Monet" .
+<http://www.goodreads.com/book/show/28549374-collected-works-of-claude-monet> <http://schema.org/creator> "Claude Monet" .
+<http://www.goodreads.com/book/show/28549374-collected-works-of-claude-monet> <http://schema.org/publisher> "Delphi Classics" .
+<http://www.goodreads.com/book/show/28549374-collected-works-of-claude-monet> <http://schema.org/numberOfPages> "733"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/28549374-collected-works-of-claude-monet> <http://schema.org/datePublished> "2011" .
+<http://www.goodreads.com/book/show/28525882-complete-works-of-vincent-van-gogh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/28525882-complete-works-of-vincent-van-gogh> <http://schema.org/identifier> "28525882" .
+<http://www.goodreads.com/book/show/28525882-complete-works-of-vincent-van-gogh> <http://schema.org/name> "Complete Works of Vincent van Gogh" .
+<http://www.goodreads.com/book/show/28525882-complete-works-of-vincent-van-gogh> <http://schema.org/creator> "Vincent van Gogh" .
+<http://www.goodreads.com/book/show/28525882-complete-works-of-vincent-van-gogh> <http://schema.org/publisher> "Delphi Classics" .
+<http://www.goodreads.com/book/show/28525882-complete-works-of-vincent-van-gogh> <http://schema.org/datePublished> "2011" .
+<http://www.goodreads.com/book/show/18866708-complete-works-of-johannes-vermeer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/18866708-complete-works-of-johannes-vermeer> <http://schema.org/identifier> "18866708" .
+<http://www.goodreads.com/book/show/18866708-complete-works-of-johannes-vermeer> <http://schema.org/name> "Complete Works of Johannes Vermeer" .
+<http://www.goodreads.com/book/show/18866708-complete-works-of-johannes-vermeer> <http://schema.org/creator> "Johannes Vermeer" .
+<http://www.goodreads.com/book/show/18866708-complete-works-of-johannes-vermeer> <http://schema.org/publisher> "Delphi Classics" .
+<http://www.goodreads.com/book/show/18866708-complete-works-of-johannes-vermeer> <http://schema.org/numberOfPages> "215"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/18866708-complete-works-of-johannes-vermeer> <http://schema.org/datePublished> "2012" .
+<http://www.goodreads.com/book/show/28516449-complete-works-of-leonardo-da-vinci> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/28516449-complete-works-of-leonardo-da-vinci> <http://schema.org/identifier> "28516449" .
+<http://www.goodreads.com/book/show/28516449-complete-works-of-leonardo-da-vinci> <http://schema.org/name> "Complete Works of Leonardo da Vinci" .
+<http://www.goodreads.com/book/show/28516449-complete-works-of-leonardo-da-vinci> <http://schema.org/creator> "Leonardo da Vinci" .
+<http://www.goodreads.com/book/show/28516449-complete-works-of-leonardo-da-vinci> <http://schema.org/publisher> "Delphi Classics" .
+<http://www.goodreads.com/book/show/28516449-complete-works-of-leonardo-da-vinci> <http://schema.org/datePublished> "2011" .
+<http://www.goodreads.com/book/show/28838791-complete-paintings-of-eugene-delacroix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/28838791-complete-paintings-of-eugene-delacroix> <http://schema.org/identifier> "28838791" .
+<http://www.goodreads.com/book/show/28838791-complete-paintings-of-eugene-delacroix> <http://schema.org/name> "Complete Paintings of Eugene Delacroix" .
+<http://www.goodreads.com/book/show/28838791-complete-paintings-of-eugene-delacroix> <http://schema.org/creator> "Eugène Delacroix" .
+<http://www.goodreads.com/book/show/28838791-complete-paintings-of-eugene-delacroix> <http://schema.org/publisher> "Delphi Classics" .
+<http://www.goodreads.com/book/show/28838791-complete-paintings-of-eugene-delacroix> <http://schema.org/numberOfPages> "515"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/28838791-complete-paintings-of-eugene-delacroix> <http://schema.org/datePublished> "2016" .
+<http://www.goodreads.com/book/show/37642446-cézanne-portraits> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/37642446-cézanne-portraits> <http://schema.org/identifier> "37642446" .
+<http://www.goodreads.com/book/show/37642446-cézanne-portraits> <http://schema.org/name> "Cézanne Portraits" .
+<http://www.goodreads.com/book/show/37642446-cézanne-portraits> <http://schema.org/creator> "John Elderfield" .
+<http://www.goodreads.com/book/show/37642446-cézanne-portraits> <http://schema.org/isbn> "9781855147317" .
+<http://www.goodreads.com/book/show/37642446-cézanne-portraits> <http://schema.org/publisher> "National Portrait Gallery Publications" .
+<http://www.goodreads.com/book/show/37642446-cézanne-portraits> <http://schema.org/numberOfPages> "245"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/37642446-cézanne-portraits> <http://schema.org/datePublished> "2017" .
+<http://www.goodreads.com/book/show/1366178-courbet-and-the-modern-landscape> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/1366178-courbet-and-the-modern-landscape> <http://schema.org/identifier> "1366178" .
+<http://www.goodreads.com/book/show/1366178-courbet-and-the-modern-landscape> <http://schema.org/name> "Courbet and the Modern Landscape" .
+<http://www.goodreads.com/book/show/1366178-courbet-and-the-modern-landscape> <http://schema.org/creator> "Mary Morton" .
+<http://www.goodreads.com/book/show/1366178-courbet-and-the-modern-landscape> <http://schema.org/isbn> "9780892368365" .
+<http://www.goodreads.com/book/show/1366178-courbet-and-the-modern-landscape> <http://schema.org/publisher> "J. Paul Getty Museum" .
+<http://www.goodreads.com/book/show/1366178-courbet-and-the-modern-landscape> <http://schema.org/numberOfPages> "152"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/1366178-courbet-and-the-modern-landscape> <http://schema.org/datePublished> "2006" .
+<http://www.goodreads.com/book/show/23167589-gustave-caillebotte:-the-painter's-eye> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/23167589-gustave-caillebotte:-the-painter's-eye> <http://schema.org/identifier> "23167589" .
+<http://www.goodreads.com/book/show/23167589-gustave-caillebotte:-the-painter's-eye> <http://schema.org/name> "Gustave Caillebotte: The Painter's Eye" .
+<http://www.goodreads.com/book/show/23167589-gustave-caillebotte:-the-painter's-eye> <http://schema.org/creator> "Mary Morton" .
+<http://www.goodreads.com/book/show/23167589-gustave-caillebotte:-the-painter's-eye> <http://schema.org/isbn> "9780226263557" .
+<http://www.goodreads.com/book/show/23167589-gustave-caillebotte:-the-painter's-eye> <http://schema.org/publisher> "University of Chicago Press" .
+<http://www.goodreads.com/book/show/23167589-gustave-caillebotte:-the-painter's-eye> <http://schema.org/numberOfPages> "272"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/23167589-gustave-caillebotte:-the-painter's-eye> <http://schema.org/datePublished> "2015" .
+<http://www.goodreads.com/book/show/1770315-gustave-caillebotte:-urban-impressionist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/1770315-gustave-caillebotte:-urban-impressionist> <http://schema.org/identifier> "1770315" .
+<http://www.goodreads.com/book/show/1770315-gustave-caillebotte:-urban-impressionist> <http://schema.org/name> "Gustave Caillebotte: Urban Impressionist" .
+<http://www.goodreads.com/book/show/1770315-gustave-caillebotte:-urban-impressionist> <http://schema.org/creator> "Anne Distel" .
+<http://www.goodreads.com/book/show/1770315-gustave-caillebotte:-urban-impressionist> <http://schema.org/isbn> "9780789200419" .
+<http://www.goodreads.com/book/show/1770315-gustave-caillebotte:-urban-impressionist> <http://schema.org/publisher> "Abbeville Press" .
+<http://www.goodreads.com/book/show/1770315-gustave-caillebotte:-urban-impressionist> <http://schema.org/numberOfPages> "352"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/1770315-gustave-caillebotte:-urban-impressionist> <http://schema.org/datePublished> "1995" .
+<http://www.goodreads.com/book/show/482700-gustave-caillebotte> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/482700-gustave-caillebotte> <http://schema.org/identifier> "482700" .
+<http://www.goodreads.com/book/show/482700-gustave-caillebotte> <http://schema.org/name> "Gustave Caillebotte" .
+<http://www.goodreads.com/book/show/482700-gustave-caillebotte> <http://schema.org/creator> "Kirk Varnedoe" .
+<http://www.goodreads.com/book/show/482700-gustave-caillebotte> <http://schema.org/isbn> "9780300082791" .
+<http://www.goodreads.com/book/show/482700-gustave-caillebotte> <http://schema.org/publisher> "Yale University Press" .
+<http://www.goodreads.com/book/show/482700-gustave-caillebotte> <http://schema.org/numberOfPages> "220"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/482700-gustave-caillebotte> <http://schema.org/datePublished> "2000" .
+<http://www.goodreads.com/book/show/24974557-monet-drawings-and-caricatures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/24974557-monet-drawings-and-caricatures> <http://schema.org/identifier> "24974557" .
+<http://www.goodreads.com/book/show/24974557-monet-drawings-and-caricatures> <http://schema.org/name> "Monet Drawings and Caricatures" .
+<http://www.goodreads.com/book/show/24974557-monet-drawings-and-caricatures> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/24974557-monet-drawings-and-caricatures> <http://schema.org/publisher> "Narim Bender" .
+<http://www.goodreads.com/book/show/24974557-monet-drawings-and-caricatures> <http://schema.org/numberOfPages> "54"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/24974557-monet-drawings-and-caricatures> <http://schema.org/datePublished> "2015" .
+<http://www.goodreads.com/book/show/25440220-j.-m.-w.-turner:-70-drawings-and-prints> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/25440220-j.-m.-w.-turner:-70-drawings-and-prints> <http://schema.org/identifier> "25440220" .
+<http://www.goodreads.com/book/show/25440220-j.-m.-w.-turner:-70-drawings-and-prints> <http://schema.org/name> "J. M. W. Turner: 70 Drawings and Prints" .
+<http://www.goodreads.com/book/show/25440220-j.-m.-w.-turner:-70-drawings-and-prints> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/25440220-j.-m.-w.-turner:-70-drawings-and-prints> <http://schema.org/publisher> "Osmora Inc." .
+<http://www.goodreads.com/book/show/25440220-j.-m.-w.-turner:-70-drawings-and-prints> <http://schema.org/numberOfPages> "62"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/25440220-j.-m.-w.-turner:-70-drawings-and-prints> <http://schema.org/datePublished> "2015" .
+<http://www.goodreads.com/book/show/33918412-george-romney:-detailed-drawings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/33918412-george-romney:-detailed-drawings> <http://schema.org/identifier> "33918412" .
+<http://www.goodreads.com/book/show/33918412-george-romney:-detailed-drawings> <http://schema.org/name> "George Romney: Detailed Drawings" .
+<http://www.goodreads.com/book/show/33918412-george-romney:-detailed-drawings> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/33918412-george-romney:-detailed-drawings> <http://schema.org/publisher> "Osmora Inc." .
+<http://www.goodreads.com/book/show/33918412-george-romney:-detailed-drawings> <http://schema.org/numberOfPages> "80"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/33918412-george-romney:-detailed-drawings> <http://schema.org/datePublished> "2015" .
+<http://www.goodreads.com/book/show/24193030-francisco-goya:-103-drawings-and-etchings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/24193030-francisco-goya:-103-drawings-and-etchings> <http://schema.org/identifier> "24193030" .
+<http://www.goodreads.com/book/show/24193030-francisco-goya:-103-drawings-and-etchings> <http://schema.org/name> "Francisco Goya: 103 Drawings and Etchings" .
+<http://www.goodreads.com/book/show/24193030-francisco-goya:-103-drawings-and-etchings> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/24193030-francisco-goya:-103-drawings-and-etchings> <http://schema.org/publisher> "Osmora Inc." .
+<http://www.goodreads.com/book/show/24193030-francisco-goya:-103-drawings-and-etchings> <http://schema.org/numberOfPages> "107"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/24193030-francisco-goya:-103-drawings-and-etchings> <http://schema.org/datePublished> "2014" .
+<http://www.goodreads.com/book/show/20409094-rembrandt:-paintings,-etchings,-drawings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/20409094-rembrandt:-paintings,-etchings,-drawings> <http://schema.org/identifier> "20409094" .
+<http://www.goodreads.com/book/show/20409094-rembrandt:-paintings,-etchings,-drawings> <http://schema.org/name> "Rembrandt: Paintings, Etchings, Drawings" .
+<http://www.goodreads.com/book/show/20409094-rembrandt:-paintings,-etchings,-drawings> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/20409094-rembrandt:-paintings,-etchings,-drawings> <http://schema.org/publisher> "BookRix GmbH & Co. KG" .
+<http://www.goodreads.com/book/show/20409094-rembrandt:-paintings,-etchings,-drawings> <http://schema.org/numberOfPages> "247"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/20409094-rembrandt:-paintings,-etchings,-drawings> <http://schema.org/datePublished> "2013" .
+<http://www.goodreads.com/book/show/26026667-edward-burne-jones:-109-drawings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/26026667-edward-burne-jones:-109-drawings> <http://schema.org/identifier> "26026667" .
+<http://www.goodreads.com/book/show/26026667-edward-burne-jones:-109-drawings> <http://schema.org/name> "Edward Burne-Jones: 109 Drawings" .
+<http://www.goodreads.com/book/show/26026667-edward-burne-jones:-109-drawings> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/26026667-edward-burne-jones:-109-drawings> <http://schema.org/publisher> "Osmora Inc." .
+<http://www.goodreads.com/book/show/26026667-edward-burne-jones:-109-drawings> <http://schema.org/numberOfPages> "106"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/26026667-edward-burne-jones:-109-drawings> <http://schema.org/datePublished> "2014" .
+<http://www.goodreads.com/book/show/24978226-anders-zorn:-103-watercolors-and-etchings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/24978226-anders-zorn:-103-watercolors-and-etchings> <http://schema.org/identifier> "24978226" .
+<http://www.goodreads.com/book/show/24978226-anders-zorn:-103-watercolors-and-etchings> <http://schema.org/name> "Anders Zorn: 103 Watercolors and Etchings" .
+<http://www.goodreads.com/book/show/24978226-anders-zorn:-103-watercolors-and-etchings> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/24978226-anders-zorn:-103-watercolors-and-etchings> <http://schema.org/publisher> "Osmora Inc." .
+<http://www.goodreads.com/book/show/24978226-anders-zorn:-103-watercolors-and-etchings> <http://schema.org/numberOfPages> "107"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/24978226-anders-zorn:-103-watercolors-and-etchings> <http://schema.org/datePublished> "2014" .
+<http://www.goodreads.com/book/show/24967211-vincent-van-gogh:-120-drawings-and-watercolors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/24967211-vincent-van-gogh:-120-drawings-and-watercolors> <http://schema.org/identifier> "24967211" .
+<http://www.goodreads.com/book/show/24967211-vincent-van-gogh:-120-drawings-and-watercolors> <http://schema.org/name> "Vincent Van Gogh: 120 Drawings and Watercolors" .
+<http://www.goodreads.com/book/show/24967211-vincent-van-gogh:-120-drawings-and-watercolors> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/24967211-vincent-van-gogh:-120-drawings-and-watercolors> <http://schema.org/publisher> "Osmora Inc." .
+<http://www.goodreads.com/book/show/24967211-vincent-van-gogh:-120-drawings-and-watercolors> <http://schema.org/numberOfPages> "134"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/24967211-vincent-van-gogh:-120-drawings-and-watercolors> <http://schema.org/datePublished> "2014" .
+<http://www.goodreads.com/book/show/30134366-anthony-van-dyck:-drawings-and-engravings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/30134366-anthony-van-dyck:-drawings-and-engravings> <http://schema.org/identifier> "30134366" .
+<http://www.goodreads.com/book/show/30134366-anthony-van-dyck:-drawings-and-engravings> <http://schema.org/name> "Anthony van Dyck: Drawings and Engravings" .
+<http://www.goodreads.com/book/show/30134366-anthony-van-dyck:-drawings-and-engravings> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/30134366-anthony-van-dyck:-drawings-and-engravings> <http://schema.org/publisher> "Osmora Inc." .
+<http://www.goodreads.com/book/show/30134366-anthony-van-dyck:-drawings-and-engravings> <http://schema.org/numberOfPages> "60"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/30134366-anthony-van-dyck:-drawings-and-engravings> <http://schema.org/datePublished> "2015" .
+<http://www.goodreads.com/book/show/23982125-renoir-(113-drawings-and-pastels)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/23982125-renoir-(113-drawings-and-pastels)> <http://schema.org/identifier> "23982125" .
+<http://www.goodreads.com/book/show/23982125-renoir-(113-drawings-and-pastels)> <http://schema.org/name> "Renoir (113 Drawings and Pastels)" .
+<http://www.goodreads.com/book/show/23982125-renoir-(113-drawings-and-pastels)> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/23982125-renoir-(113-drawings-and-pastels)> <http://schema.org/publisher> "Osmora Inc." .
+<http://www.goodreads.com/book/show/23982125-renoir-(113-drawings-and-pastels)> <http://schema.org/numberOfPages> "136"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/23982125-renoir-(113-drawings-and-pastels)> <http://schema.org/datePublished> "2014" .
+<http://www.goodreads.com/book/show/23978003-gustav-klimt-(drawings-and-pastels)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/23978003-gustav-klimt-(drawings-and-pastels)> <http://schema.org/identifier> "23978003" .
+<http://www.goodreads.com/book/show/23978003-gustav-klimt-(drawings-and-pastels)> <http://schema.org/name> "Gustav Klimt (Drawings and Pastels)" .
+<http://www.goodreads.com/book/show/23978003-gustav-klimt-(drawings-and-pastels)> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/23978003-gustav-klimt-(drawings-and-pastels)> <http://schema.org/publisher> "Osmora Inc." .
+<http://www.goodreads.com/book/show/23978003-gustav-klimt-(drawings-and-pastels)> <http://schema.org/datePublished> "2014" .
+<http://www.goodreads.com/book/show/25606251-felicien-rops:-80-drawings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/25606251-felicien-rops:-80-drawings> <http://schema.org/identifier> "25606251" .
+<http://www.goodreads.com/book/show/25606251-felicien-rops:-80-drawings> <http://schema.org/name> "Felicien Rops: 80 Drawings" .
+<http://www.goodreads.com/book/show/25606251-felicien-rops:-80-drawings> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/25606251-felicien-rops:-80-drawings> <http://schema.org/publisher> "Osmora Inc." .
+<http://www.goodreads.com/book/show/25606251-felicien-rops:-80-drawings> <http://schema.org/numberOfPages> "80"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/25606251-felicien-rops:-80-drawings> <http://schema.org/datePublished> "2015" .
+<http://www.goodreads.com/book/show/25269351-hans-holbein:-80-drawings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/25269351-hans-holbein:-80-drawings> <http://schema.org/identifier> "25269351" .
+<http://www.goodreads.com/book/show/25269351-hans-holbein:-80-drawings> <http://schema.org/name> "Hans Holbein: 80 Drawings" .
+<http://www.goodreads.com/book/show/25269351-hans-holbein:-80-drawings> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/25269351-hans-holbein:-80-drawings> <http://schema.org/publisher> "Osmora Inc." .
+<http://www.goodreads.com/book/show/25269351-hans-holbein:-80-drawings> <http://schema.org/numberOfPages> "80"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/25269351-hans-holbein:-80-drawings> <http://schema.org/datePublished> "2015" .
+<http://www.goodreads.com/book/show/23941710-berthe-morisot:-101-drawings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/23941710-berthe-morisot:-101-drawings> <http://schema.org/identifier> "23941710" .
+<http://www.goodreads.com/book/show/23941710-berthe-morisot:-101-drawings> <http://schema.org/name> "Berthe Morisot: 101 Drawings" .
+<http://www.goodreads.com/book/show/23941710-berthe-morisot:-101-drawings> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/23941710-berthe-morisot:-101-drawings> <http://schema.org/publisher> "Osmora Inc." .
+<http://www.goodreads.com/book/show/23941710-berthe-morisot:-101-drawings> <http://schema.org/numberOfPages> "99"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/23941710-berthe-morisot:-101-drawings> <http://schema.org/datePublished> "2014" .
+<http://www.goodreads.com/book/show/25435603-alphonse-mucha:-drawings-and-watercolors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/25435603-alphonse-mucha:-drawings-and-watercolors> <http://schema.org/identifier> "25435603" .
+<http://www.goodreads.com/book/show/25435603-alphonse-mucha:-drawings-and-watercolors> <http://schema.org/name> "Alphonse Mucha: Drawings and Watercolors" .
+<http://www.goodreads.com/book/show/25435603-alphonse-mucha:-drawings-and-watercolors> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/25435603-alphonse-mucha:-drawings-and-watercolors> <http://schema.org/publisher> "Osmora Inc." .
+<http://www.goodreads.com/book/show/25435603-alphonse-mucha:-drawings-and-watercolors> <http://schema.org/numberOfPages> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/25435603-alphonse-mucha:-drawings-and-watercolors> <http://schema.org/datePublished> "2014" .
+<http://www.goodreads.com/book/show/25399913-antoine-watteau:-83-drawings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/25399913-antoine-watteau:-83-drawings> <http://schema.org/identifier> "25399913" .
+<http://www.goodreads.com/book/show/25399913-antoine-watteau:-83-drawings> <http://schema.org/name> "Antoine Watteau: 83 Drawings" .
+<http://www.goodreads.com/book/show/25399913-antoine-watteau:-83-drawings> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/25399913-antoine-watteau:-83-drawings> <http://schema.org/publisher> "Osmora Inc." .
+<http://www.goodreads.com/book/show/25399913-antoine-watteau:-83-drawings> <http://schema.org/numberOfPages> "88"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/25399913-antoine-watteau:-83-drawings> <http://schema.org/datePublished> "2014" .
+<http://www.goodreads.com/book/show/28095798-auguste-rodin:-101-drawings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/28095798-auguste-rodin:-101-drawings> <http://schema.org/identifier> "28095798" .
+<http://www.goodreads.com/book/show/28095798-auguste-rodin:-101-drawings> <http://schema.org/name> "Auguste Rodin: 101 Drawings" .
+<http://www.goodreads.com/book/show/28095798-auguste-rodin:-101-drawings> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/28095798-auguste-rodin:-101-drawings> <http://schema.org/publisher> "Osmora Inc." .
+<http://www.goodreads.com/book/show/28095798-auguste-rodin:-101-drawings> <http://schema.org/numberOfPages> "106"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/28095798-auguste-rodin:-101-drawings> <http://schema.org/datePublished> "2015" .
+<http://www.goodreads.com/book/show/23594994-durer-(123-drawings-and-prints)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/23594994-durer-(123-drawings-and-prints)> <http://schema.org/identifier> "23594994" .
+<http://www.goodreads.com/book/show/23594994-durer-(123-drawings-and-prints)> <http://schema.org/name> "Durer (123 Drawings and Prints)" .
+<http://www.goodreads.com/book/show/23594994-durer-(123-drawings-and-prints)> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/23594994-durer-(123-drawings-and-prints)> <http://schema.org/publisher> "Osmora Inc." .
+<http://www.goodreads.com/book/show/23594994-durer-(123-drawings-and-prints)> <http://schema.org/numberOfPages> "126"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/23594994-durer-(123-drawings-and-prints)> <http://schema.org/datePublished> "2014" .
+<http://www.goodreads.com/book/show/21065994-peter-paul-rubens:-81-drawings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/21065994-peter-paul-rubens:-81-drawings> <http://schema.org/identifier> "21065994" .
+<http://www.goodreads.com/book/show/21065994-peter-paul-rubens:-81-drawings> <http://schema.org/name> "Peter Paul Rubens: 81 Drawings" .
+<http://www.goodreads.com/book/show/21065994-peter-paul-rubens:-81-drawings> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/21065994-peter-paul-rubens:-81-drawings> <http://schema.org/publisher> "BookRix GmbH & Co. KG" .
+<http://www.goodreads.com/book/show/21065994-peter-paul-rubens:-81-drawings> <http://schema.org/numberOfPages> "89"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/21065994-peter-paul-rubens:-81-drawings> <http://schema.org/datePublished> "2013" .
+<http://www.goodreads.com/book/show/23793630-cézanne-(80-drawings)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/23793630-cézanne-(80-drawings)> <http://schema.org/identifier> "23793630" .
+<http://www.goodreads.com/book/show/23793630-cézanne-(80-drawings)> <http://schema.org/name> "Cézanne (80 Drawings)" .
+<http://www.goodreads.com/book/show/23793630-cézanne-(80-drawings)> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/23793630-cézanne-(80-drawings)> <http://schema.org/publisher> "Osmora Inc." .
+<http://www.goodreads.com/book/show/23793630-cézanne-(80-drawings)> <http://schema.org/numberOfPages> "81"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/23793630-cézanne-(80-drawings)> <http://schema.org/datePublished> "2014" .
+<http://www.goodreads.com/book/show/24014167-michelangelo-buonarroti:-85-drawings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/24014167-michelangelo-buonarroti:-85-drawings> <http://schema.org/identifier> "24014167" .
+<http://www.goodreads.com/book/show/24014167-michelangelo-buonarroti:-85-drawings> <http://schema.org/name> "Michelangelo Buonarroti: 85 Drawings" .
+<http://www.goodreads.com/book/show/24014167-michelangelo-buonarroti:-85-drawings> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/24014167-michelangelo-buonarroti:-85-drawings> <http://schema.org/publisher> "BookRix GmbH & Co. KG" .
+<http://www.goodreads.com/book/show/24014167-michelangelo-buonarroti:-85-drawings> <http://schema.org/numberOfPages> "95"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/24014167-michelangelo-buonarroti:-85-drawings> <http://schema.org/datePublished> "2013" .
+<http://www.goodreads.com/book/show/20630363-van-gogh:-99-watercolors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/20630363-van-gogh:-99-watercolors> <http://schema.org/identifier> "20630363" .
+<http://www.goodreads.com/book/show/20630363-van-gogh:-99-watercolors> <http://schema.org/name> "Van Gogh: 99 Watercolors" .
+<http://www.goodreads.com/book/show/20630363-van-gogh:-99-watercolors> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/20630363-van-gogh:-99-watercolors> <http://schema.org/publisher> "BookRix GmbH & Co. KG" .
+<http://www.goodreads.com/book/show/20630363-van-gogh:-99-watercolors> <http://schema.org/numberOfPages> "104"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/20630363-van-gogh:-99-watercolors> <http://schema.org/datePublished> "2013" .
+<http://www.goodreads.com/book/show/28282408-ramon-casas:-80-drawings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/28282408-ramon-casas:-80-drawings> <http://schema.org/identifier> "28282408" .
+<http://www.goodreads.com/book/show/28282408-ramon-casas:-80-drawings> <http://schema.org/name> "Ramon Casas: 80 Drawings" .
+<http://www.goodreads.com/book/show/28282408-ramon-casas:-80-drawings> <http://schema.org/creator> "Narim Bender" .
+<http://www.goodreads.com/book/show/28282408-ramon-casas:-80-drawings> <http://schema.org/publisher> "Osmora Inc." .
+<http://www.goodreads.com/book/show/28282408-ramon-casas:-80-drawings> <http://schema.org/numberOfPages> "80"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/28282408-ramon-casas:-80-drawings> <http://schema.org/datePublished> "2015" .
+<http://www.goodreads.com/book/show/30362470-pintor:-ramón-casas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/30362470-pintor:-ramón-casas> <http://schema.org/identifier> "30362470" .
+<http://www.goodreads.com/book/show/30362470-pintor:-ramón-casas> <http://schema.org/name> "Pintor: Ramón Casas" .
+<http://www.goodreads.com/book/show/30362470-pintor:-ramón-casas> <http://schema.org/creator> "Cristina Mendoza" .
+<http://www.goodreads.com/book/show/30362470-pintor:-ramón-casas> <http://schema.org/isbn> "9788498444698" .
+<http://www.goodreads.com/book/show/30362470-pintor:-ramón-casas> <http://schema.org/publisher> "FUND_ MAPFRE" .
+<http://www.goodreads.com/book/show/30362470-pintor:-ramón-casas> <http://schema.org/numberOfPages> "115"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/30362470-pintor:-ramón-casas> <http://schema.org/datePublished> "2015" .
+<http://www.goodreads.com/book/show/36654035-les-manuscrits-enluminés> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/36654035-les-manuscrits-enluminés> <http://schema.org/identifier> "36654035" .
+<http://www.goodreads.com/book/show/36654035-les-manuscrits-enluminés> <http://schema.org/name> "Les Manuscrits enluminés" .
+<http://www.goodreads.com/book/show/36654035-les-manuscrits-enluminés> <http://schema.org/creator> "Jp. A. Calosse" .
+<http://www.goodreads.com/book/show/36654035-les-manuscrits-enluminés> <http://schema.org/publisher> "Parkstone International" .
+<http://www.goodreads.com/book/show/36654035-les-manuscrits-enluminés> <http://schema.org/numberOfPages> "376"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/36654035-les-manuscrits-enluminés> <http://schema.org/datePublished> "2011" .
+<http://www.goodreads.com/book/show/24215060-rubens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/24215060-rubens> <http://schema.org/identifier> "24215060" .
+<http://www.goodreads.com/book/show/24215060-rubens> <http://schema.org/name> "Rubens" .
+<http://www.goodreads.com/book/show/24215060-rubens> <http://schema.org/creator> "Jp. A. Calosse" .
+<http://www.goodreads.com/book/show/24215060-rubens> <http://schema.org/publisher> "Parkstone International" .
+<http://www.goodreads.com/book/show/24215060-rubens> <http://schema.org/numberOfPages> "89"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/24215060-rubens> <http://schema.org/datePublished> "2011" .
+<http://www.goodreads.com/book/show/34964460-le-nu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/34964460-le-nu> <http://schema.org/identifier> "34964460" .
+<http://www.goodreads.com/book/show/34964460-le-nu> <http://schema.org/name> "Le Nu" .
+<http://www.goodreads.com/book/show/34964460-le-nu> <http://schema.org/creator> "Jp. A. Calosse" .
+<http://www.goodreads.com/book/show/34964460-le-nu> <http://schema.org/publisher> "Parkstone International" .
+<http://www.goodreads.com/book/show/34964460-le-nu> <http://schema.org/numberOfPages> "257"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/34964460-le-nu> <http://schema.org/datePublished> "2011" .
+<http://www.goodreads.com/book/show/19038602-johannes-vermeer-(french-edition)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/19038602-johannes-vermeer-(french-edition)> <http://schema.org/identifier> "19038602" .
+<http://www.goodreads.com/book/show/19038602-johannes-vermeer-(french-edition)> <http://schema.org/name> "Johannes Vermeer (French Edition)" .
+<http://www.goodreads.com/book/show/19038602-johannes-vermeer-(french-edition)> <http://schema.org/creator> "Jp. A. Calosse" .
+<http://www.goodreads.com/book/show/19038602-johannes-vermeer-(french-edition)> <http://schema.org/isbn> "9781781607077" .
+<http://www.goodreads.com/book/show/19038602-johannes-vermeer-(french-edition)> <http://schema.org/publisher> "Parkstone International" .
+<http://www.goodreads.com/book/show/19038602-johannes-vermeer-(french-edition)> <http://schema.org/numberOfPages> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/19038602-johannes-vermeer-(french-edition)> <http://schema.org/datePublished> "2011" .
+<http://www.goodreads.com/book/show/19397482-picasso-(german-edition)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/19397482-picasso-(german-edition)> <http://schema.org/identifier> "19397482" .
+<http://www.goodreads.com/book/show/19397482-picasso-(german-edition)> <http://schema.org/name> "Picasso (German Edition)" .
+<http://www.goodreads.com/book/show/19397482-picasso-(german-edition)> <http://schema.org/creator> "Jp. A. Calosse" .
+<http://www.goodreads.com/book/show/19397482-picasso-(german-edition)> <http://schema.org/isbn> "9781781607237" .
+<http://www.goodreads.com/book/show/19397482-picasso-(german-edition)> <http://schema.org/publisher> "Parkstone International" .
+<http://www.goodreads.com/book/show/19397482-picasso-(german-edition)> <http://schema.org/numberOfPages> "108"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/19397482-picasso-(german-edition)> <http://schema.org/datePublished> "2011" .
+<http://www.goodreads.com/book/show/19046339-van-gogh-(german-edition)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/19046339-van-gogh-(german-edition)> <http://schema.org/identifier> "19046339" .
+<http://www.goodreads.com/book/show/19046339-van-gogh-(german-edition)> <http://schema.org/name> "Van Gogh (German Edition)" .
+<http://www.goodreads.com/book/show/19046339-van-gogh-(german-edition)> <http://schema.org/creator> "Jp. A. Calosse" .
+<http://www.goodreads.com/book/show/19046339-van-gogh-(german-edition)> <http://schema.org/isbn> "9781781607268" .
+<http://www.goodreads.com/book/show/19046339-van-gogh-(german-edition)> <http://schema.org/publisher> "Parkstone International" .
+<http://www.goodreads.com/book/show/19046339-van-gogh-(german-edition)> <http://schema.org/numberOfPages> "104"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/19046339-van-gogh-(german-edition)> <http://schema.org/datePublished> "2011" .
+<http://www.goodreads.com/book/show/17768125-miro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/17768125-miro> <http://schema.org/identifier> "17768125" .
+<http://www.goodreads.com/book/show/17768125-miro> <http://schema.org/name> "Miro" .
+<http://www.goodreads.com/book/show/17768125-miro> <http://schema.org/creator> "Jp. A. Calosse" .
+<http://www.goodreads.com/book/show/17768125-miro> <http://schema.org/isbn> "9781283954679" .
+<http://www.goodreads.com/book/show/17768125-miro> <http://schema.org/publisher> "Parkstone Press" .
+<http://www.goodreads.com/book/show/17768125-miro> <http://schema.org/numberOfPages> "81"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/17768125-miro> <http://schema.org/datePublished> "2011" .
+<http://www.goodreads.com/book/show/23096303-pablo-picasso-:-1881-1914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/23096303-pablo-picasso-:-1881-1914> <http://schema.org/identifier> "23096303" .
+<http://www.goodreads.com/book/show/23096303-pablo-picasso-:-1881-1914> <http://schema.org/name> "Pablo Picasso : 1881-1914" .
+<http://www.goodreads.com/book/show/23096303-pablo-picasso-:-1881-1914> <http://schema.org/creator> "Jp. A. Calosse" .
+<http://www.goodreads.com/book/show/23096303-pablo-picasso-:-1881-1914> <http://schema.org/isbn> "9781780425443" .
+<http://www.goodreads.com/book/show/23096303-pablo-picasso-:-1881-1914> <http://schema.org/publisher> "Not Avail" .
+<http://www.goodreads.com/book/show/23096303-pablo-picasso-:-1881-1914> <http://schema.org/numberOfPages> "81"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/23096303-pablo-picasso-:-1881-1914> <http://schema.org/datePublished> "2014" .
+<http://www.goodreads.com/book/show/19225958-léonard-de-vinci-(french-edition)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/19225958-léonard-de-vinci-(french-edition)> <http://schema.org/identifier> "19225958" .
+<http://www.goodreads.com/book/show/19225958-léonard-de-vinci-(french-edition)> <http://schema.org/name> "Léonard de Vinci (French Edition)" .
+<http://www.goodreads.com/book/show/19225958-léonard-de-vinci-(french-edition)> <http://schema.org/creator> "Jp. A. Calosse" .
+<http://www.goodreads.com/book/show/19225958-léonard-de-vinci-(french-edition)> <http://schema.org/isbn> "9781781606919" .
+<http://www.goodreads.com/book/show/19225958-léonard-de-vinci-(french-edition)> <http://schema.org/publisher> "Parkstone International" .
+<http://www.goodreads.com/book/show/19225958-léonard-de-vinci-(french-edition)> <http://schema.org/numberOfPages> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/19225958-léonard-de-vinci-(french-edition)> <http://schema.org/datePublished> "2011" .
+<http://www.goodreads.com/book/show/23011565-goya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/23011565-goya> <http://schema.org/identifier> "23011565" .
+<http://www.goodreads.com/book/show/23011565-goya> <http://schema.org/name> "Goya" .
+<http://www.goodreads.com/book/show/23011565-goya> <http://schema.org/creator> "Jp. A. Calosse" .
+<http://www.goodreads.com/book/show/23011565-goya> <http://schema.org/publisher> "Parkstone International" .
+<http://www.goodreads.com/book/show/23011565-goya> <http://schema.org/numberOfPages> "380"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/23011565-goya> <http://schema.org/datePublished> "2014" .
+<http://www.goodreads.com/book/show/21289797-picasso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/21289797-picasso> <http://schema.org/identifier> "21289797" .
+<http://www.goodreads.com/book/show/21289797-picasso> <http://schema.org/name> "Picasso" .
+<http://www.goodreads.com/book/show/21289797-picasso> <http://schema.org/creator> "Jp. A. Calosse" .
+<http://www.goodreads.com/book/show/21289797-picasso> <http://schema.org/publisher> "Parkstone International" .
+<http://www.goodreads.com/book/show/21289797-picasso> <http://schema.org/numberOfPages> "111"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/21289797-picasso> <http://schema.org/datePublished> "2011" .
+<http://www.goodreads.com/book/show/21300282-mondrian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/21300282-mondrian> <http://schema.org/identifier> "21300282" .
+<http://www.goodreads.com/book/show/21300282-mondrian> <http://schema.org/name> "Mondrian" .
+<http://www.goodreads.com/book/show/21300282-mondrian> <http://schema.org/creator> "Jp. A. Calosse" .
+<http://www.goodreads.com/book/show/21300282-mondrian> <http://schema.org/publisher> "Parkstone International" .
+<http://www.goodreads.com/book/show/21300282-mondrian> <http://schema.org/numberOfPages> "106"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/21300282-mondrian> <http://schema.org/datePublished> "2011" .
+<http://www.goodreads.com/book/show/7932749-gaugin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/7932749-gaugin> <http://schema.org/identifier> "7932749" .
+<http://www.goodreads.com/book/show/7932749-gaugin> <http://schema.org/name> "Gaugin" .
+<http://www.goodreads.com/book/show/7932749-gaugin> <http://schema.org/creator> "Jp. A. Calosse" .
+<http://www.goodreads.com/book/show/7932749-gaugin> <http://schema.org/isbn> "9789583021961" .
+<http://www.goodreads.com/book/show/7932749-gaugin> <http://schema.org/publisher> "Panamericana Editorial" .
+<http://www.goodreads.com/book/show/7932749-gaugin> <http://schema.org/numberOfPages> "256"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/7932749-gaugin> <http://schema.org/datePublished> "2008" .
+<http://www.goodreads.com/book/show/34454-the-private-lives-of-the-impressionists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/34454-the-private-lives-of-the-impressionists> <http://schema.org/identifier> "34454" .
+<http://www.goodreads.com/book/show/34454-the-private-lives-of-the-impressionists> <http://schema.org/name> "The Private Lives of the Impressionists" .
+<http://www.goodreads.com/book/show/34454-the-private-lives-of-the-impressionists> <http://schema.org/creator> "Sue Roe" .
+<http://www.goodreads.com/book/show/34454-the-private-lives-of-the-impressionists> <http://schema.org/isbn> "9780060545581" .
+<http://www.goodreads.com/book/show/34454-the-private-lives-of-the-impressionists> <http://schema.org/publisher> "Harper" .
+<http://www.goodreads.com/book/show/34454-the-private-lives-of-the-impressionists> <http://schema.org/numberOfPages> "368"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/34454-the-private-lives-of-the-impressionists> <http://schema.org/datePublished> "2006" .
+<http://www.goodreads.com/book/show/1165399-bosch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/1165399-bosch> <http://schema.org/identifier> "1165399" .
+<http://www.goodreads.com/book/show/1165399-bosch> <http://schema.org/name> "Bosch" .
+<http://www.goodreads.com/book/show/1165399-bosch> <http://schema.org/creator> "Walter Bosing" .
+<http://www.goodreads.com/book/show/1165399-bosch> <http://schema.org/isbn> "9783822858561" .
+<http://www.goodreads.com/book/show/1165399-bosch> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/1165399-bosch> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/1165399-bosch> <http://schema.org/datePublished> "2001" .
+<http://www.goodreads.com/book/show/772976-frida-kahlo:-1907-1954-pain-and-passion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/772976-frida-kahlo:-1907-1954-pain-and-passion> <http://schema.org/identifier> "772976" .
+<http://www.goodreads.com/book/show/772976-frida-kahlo:-1907-1954-pain-and-passion> <http://schema.org/name> "Frida Kahlo: 1907-1954 Pain and Passion" .
+<http://www.goodreads.com/book/show/772976-frida-kahlo:-1907-1954-pain-and-passion> <http://schema.org/creator> "Andrea Kettenmann" .
+<http://www.goodreads.com/book/show/772976-frida-kahlo:-1907-1954-pain-and-passion> <http://schema.org/isbn> "9783822859834" .
+<http://www.goodreads.com/book/show/772976-frida-kahlo:-1907-1954-pain-and-passion> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/772976-frida-kahlo:-1907-1954-pain-and-passion> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/772976-frida-kahlo:-1907-1954-pain-and-passion> <http://schema.org/datePublished> "1999" .
+<http://www.goodreads.com/book/show/342637-dali> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/342637-dali> <http://schema.org/identifier> "342637" .
+<http://www.goodreads.com/book/show/342637-dali> <http://schema.org/name> "Dali" .
+<http://www.goodreads.com/book/show/342637-dali> <http://schema.org/creator> "Robert Descharnes" .
+<http://www.goodreads.com/book/show/342637-dali> <http://schema.org/isbn> "9783822835531" .
+<http://www.goodreads.com/book/show/342637-dali> <http://schema.org/publisher> "B.Taschen Verlag,Germany" .
+<http://www.goodreads.com/book/show/342637-dali> <http://schema.org/numberOfPages> "780"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/342637-dali> <http://schema.org/datePublished> "2004" .
+<http://www.goodreads.com/book/show/16692661-raoul-dufy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/16692661-raoul-dufy> <http://schema.org/identifier> "16692661" .
+<http://www.goodreads.com/book/show/16692661-raoul-dufy> <http://schema.org/name> "Raoul Dufy" .
+<http://www.goodreads.com/book/show/16692661-raoul-dufy> <http://schema.org/creator> "Guido Perocco" .
+<http://www.goodreads.com/book/show/16692661-raoul-dufy> <http://schema.org/publisher> "Fratelli Fabbri Editori" .
+<http://www.goodreads.com/book/show/16692661-raoul-dufy> <http://schema.org/numberOfPages> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/16692661-raoul-dufy> <http://schema.org/datePublished> "1966" .
+<http://www.goodreads.com/book/show/164107-egon-schiele,-1890-1918:-the-midnight-soul-of-the-artist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/164107-egon-schiele,-1890-1918:-the-midnight-soul-of-the-artist> <http://schema.org/identifier> "164107" .
+<http://www.goodreads.com/book/show/164107-egon-schiele,-1890-1918:-the-midnight-soul-of-the-artist> <http://schema.org/name> "Egon Schiele, 1890-1918: The Midnight Soul of the Artist" .
+<http://www.goodreads.com/book/show/164107-egon-schiele,-1890-1918:-the-midnight-soul-of-the-artist> <http://schema.org/creator> "Reinhard Steiner" .
+<http://www.goodreads.com/book/show/164107-egon-schiele,-1890-1918:-the-midnight-soul-of-the-artist> <http://schema.org/isbn> "9783822863275" .
+<http://www.goodreads.com/book/show/164107-egon-schiele,-1890-1918:-the-midnight-soul-of-the-artist> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/164107-egon-schiele,-1890-1918:-the-midnight-soul-of-the-artist> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/164107-egon-schiele,-1890-1918:-the-midnight-soul-of-the-artist> <http://schema.org/datePublished> "2000" .
+<http://www.goodreads.com/book/show/777712-salvador-dalí:-1904-1989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/777712-salvador-dalí:-1904-1989> <http://schema.org/identifier> "777712" .
+<http://www.goodreads.com/book/show/777712-salvador-dalí:-1904-1989> <http://schema.org/name> "Salvador Dalí: 1904-1989" .
+<http://www.goodreads.com/book/show/777712-salvador-dalí:-1904-1989> <http://schema.org/creator> "Gilles Néret" .
+<http://www.goodreads.com/book/show/777712-salvador-dalí:-1904-1989> <http://schema.org/isbn> "9780760701102" .
+<http://www.goodreads.com/book/show/777712-salvador-dalí:-1904-1989> <http://schema.org/publisher> "Marboro Books" .
+<http://www.goodreads.com/book/show/777712-salvador-dalí:-1904-1989> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/777712-salvador-dalí:-1904-1989> <http://schema.org/datePublished> "2001" .
+<http://www.goodreads.com/book/show/901481-vermeer:-the-complete-works> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/901481-vermeer:-the-complete-works> <http://schema.org/identifier> "901481" .
+<http://www.goodreads.com/book/show/901481-vermeer:-the-complete-works> <http://schema.org/name> "Vermeer: The Complete Works" .
+<http://www.goodreads.com/book/show/901481-vermeer:-the-complete-works> <http://schema.org/creator> "Arthur K. Wheelock Jr." .
+<http://www.goodreads.com/book/show/901481-vermeer:-the-complete-works> <http://schema.org/isbn> "9780810927513" .
+<http://www.goodreads.com/book/show/901481-vermeer:-the-complete-works> <http://schema.org/publisher> "Harry N. Abrams" .
+<http://www.goodreads.com/book/show/901481-vermeer:-the-complete-works> <http://schema.org/numberOfPages> "72"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/901481-vermeer:-the-complete-works> <http://schema.org/datePublished> "1997" .
+<http://www.goodreads.com/book/show/1068942-bruegel:-the-complete-paintings-(basic-art)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/1068942-bruegel:-the-complete-paintings-(basic-art)> <http://schema.org/identifier> "1068942" .
+<http://www.goodreads.com/book/show/1068942-bruegel:-the-complete-paintings-(basic-art)> <http://schema.org/name> "Bruegel: The Complete Paintings (Basic Art)" .
+<http://www.goodreads.com/book/show/1068942-bruegel:-the-complete-paintings-(basic-art)> <http://schema.org/creator> "Rose-Marie Hagen" .
+<http://www.goodreads.com/book/show/1068942-bruegel:-the-complete-paintings-(basic-art)> <http://schema.org/isbn> "9783822859919" .
+<http://www.goodreads.com/book/show/1068942-bruegel:-the-complete-paintings-(basic-art)> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/1068942-bruegel:-the-complete-paintings-(basic-art)> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/1068942-bruegel:-the-complete-paintings-(basic-art)> <http://schema.org/datePublished> "2007" .
+<http://www.goodreads.com/book/show/420704-pablo-picasso,-1881-1973:-genius-of-the-century> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/420704-pablo-picasso,-1881-1973:-genius-of-the-century> <http://schema.org/identifier> "420704" .
+<http://www.goodreads.com/book/show/420704-pablo-picasso,-1881-1973:-genius-of-the-century> <http://schema.org/name> "Pablo Picasso, 1881-1973: Genius of the Century" .
+<http://www.goodreads.com/book/show/420704-pablo-picasso,-1881-1973:-genius-of-the-century> <http://schema.org/creator> "Ingo F. Walther" .
+<http://www.goodreads.com/book/show/420704-pablo-picasso,-1881-1973:-genius-of-the-century> <http://schema.org/isbn> "9783822859704" .
+<http://www.goodreads.com/book/show/420704-pablo-picasso,-1881-1973:-genius-of-the-century> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/420704-pablo-picasso,-1881-1973:-genius-of-the-century> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/420704-pablo-picasso,-1881-1973:-genius-of-the-century> <http://schema.org/datePublished> "2000" .
+<http://www.goodreads.com/book/show/1278350-vermeer:-a-view-of-delft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/1278350-vermeer:-a-view-of-delft> <http://schema.org/identifier> "1278350" .
+<http://www.goodreads.com/book/show/1278350-vermeer:-a-view-of-delft> <http://schema.org/name> "Vermeer: A View of Delft" .
+<http://www.goodreads.com/book/show/1278350-vermeer:-a-view-of-delft> <http://schema.org/creator> "Anthony Bailey" .
+<http://www.goodreads.com/book/show/1278350-vermeer:-a-view-of-delft> <http://schema.org/isbn> "9780805067187" .
+<http://www.goodreads.com/book/show/1278350-vermeer:-a-view-of-delft> <http://schema.org/publisher> "Henry Holt and Co." .
+<http://www.goodreads.com/book/show/1278350-vermeer:-a-view-of-delft> <http://schema.org/numberOfPages> "256"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/1278350-vermeer:-a-view-of-delft> <http://schema.org/datePublished> "2001" .
+<http://www.goodreads.com/book/show/318062-michelangelo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/318062-michelangelo> <http://schema.org/identifier> "318062" .
+<http://www.goodreads.com/book/show/318062-michelangelo> <http://schema.org/name> "Michelangelo" .
+<http://www.goodreads.com/book/show/318062-michelangelo> <http://schema.org/creator> "Gilles Néret" .
+<http://www.goodreads.com/book/show/318062-michelangelo> <http://schema.org/isbn> "9783822859766" .
+<http://www.goodreads.com/book/show/318062-michelangelo> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/318062-michelangelo> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/318062-michelangelo> <http://schema.org/datePublished> "2000" .
+<http://www.goodreads.com/book/show/154786-jackson-pollock:-1912-1956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/154786-jackson-pollock:-1912-1956> <http://schema.org/identifier> "154786" .
+<http://www.goodreads.com/book/show/154786-jackson-pollock:-1912-1956> <http://schema.org/name> "Jackson Pollock: 1912-1956" .
+<http://www.goodreads.com/book/show/154786-jackson-pollock:-1912-1956> <http://schema.org/creator> "Leonhard Emmerling" .
+<http://www.goodreads.com/book/show/154786-jackson-pollock:-1912-1956> <http://schema.org/isbn> "9783822821329" .
+<http://www.goodreads.com/book/show/154786-jackson-pollock:-1912-1956> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/154786-jackson-pollock:-1912-1956> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/154786-jackson-pollock:-1912-1956> <http://schema.org/datePublished> "2003" .
+<http://www.goodreads.com/book/show/308990-francis-bacon:-1909-1992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/308990-francis-bacon:-1909-1992> <http://schema.org/identifier> "308990" .
+<http://www.goodreads.com/book/show/308990-francis-bacon:-1909-1992> <http://schema.org/name> "Francis Bacon: 1909-1992" .
+<http://www.goodreads.com/book/show/308990-francis-bacon:-1909-1992> <http://schema.org/creator> "Luigi Ficacci" .
+<http://www.goodreads.com/book/show/308990-francis-bacon:-1909-1992> <http://schema.org/isbn> "9783822821985" .
+<http://www.goodreads.com/book/show/308990-francis-bacon:-1909-1992> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/308990-francis-bacon:-1909-1992> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/308990-francis-bacon:-1909-1992> <http://schema.org/datePublished> "2003" .
+<http://www.goodreads.com/book/show/259711-roy-lichtenstein,-1923-1997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/259711-roy-lichtenstein,-1923-1997> <http://schema.org/identifier> "259711" .
+<http://www.goodreads.com/book/show/259711-roy-lichtenstein,-1923-1997> <http://schema.org/name> "Roy Lichtenstein, 1923-1997" .
+<http://www.goodreads.com/book/show/259711-roy-lichtenstein,-1923-1997> <http://schema.org/creator> "Janis Hendrickson" .
+<http://www.goodreads.com/book/show/259711-roy-lichtenstein,-1923-1997> <http://schema.org/isbn> "9783822858608" .
+<http://www.goodreads.com/book/show/259711-roy-lichtenstein,-1923-1997> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/259711-roy-lichtenstein,-1923-1997> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/259711-roy-lichtenstein,-1923-1997> <http://schema.org/datePublished> "2001" .
+<http://www.goodreads.com/book/show/991669-joan-miro:-1893-1983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/991669-joan-miro:-1893-1983> <http://schema.org/identifier> "991669" .
+<http://www.goodreads.com/book/show/991669-joan-miro:-1893-1983> <http://schema.org/name> "Joan Miro: 1893-1983" .
+<http://www.goodreads.com/book/show/991669-joan-miro:-1893-1983> <http://schema.org/creator> "Janis Mink" .
+<http://www.goodreads.com/book/show/991669-joan-miro:-1893-1983> <http://schema.org/isbn> "9783822859759" .
+<http://www.goodreads.com/book/show/991669-joan-miro:-1893-1983> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/991669-joan-miro:-1893-1983> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/991669-joan-miro:-1893-1983> <http://schema.org/datePublished> "1999" .
+<http://www.goodreads.com/book/show/138415-rene-magritte,-1898-1967:-thought-rendered-visible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/138415-rene-magritte,-1898-1967:-thought-rendered-visible> <http://schema.org/identifier> "138415" .
+<http://www.goodreads.com/book/show/138415-rene-magritte,-1898-1967:-thought-rendered-visible> <http://schema.org/name> "Rene Magritte, 1898-1967: Thought Rendered Visible" .
+<http://www.goodreads.com/book/show/138415-rene-magritte,-1898-1967:-thought-rendered-visible> <http://schema.org/creator> "Marcel Paquet" .
+<http://www.goodreads.com/book/show/138415-rene-magritte,-1898-1967:-thought-rendered-visible> <http://schema.org/isbn> "9783822863183" .
+<http://www.goodreads.com/book/show/138415-rene-magritte,-1898-1967:-thought-rendered-visible> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/138415-rene-magritte,-1898-1967:-thought-rendered-visible> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/138415-rene-magritte,-1898-1967:-thought-rendered-visible> <http://schema.org/datePublished> "2000" .
+<http://www.goodreads.com/book/show/13318-rothko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/13318-rothko> <http://schema.org/identifier> "13318" .
+<http://www.goodreads.com/book/show/13318-rothko> <http://schema.org/name> "Rothko" .
+<http://www.goodreads.com/book/show/13318-rothko> <http://schema.org/creator> "Jacob Baal-Teshuva" .
+<http://www.goodreads.com/book/show/13318-rothko> <http://schema.org/isbn> "9783822818206" .
+<http://www.goodreads.com/book/show/13318-rothko> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/13318-rothko> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/13318-rothko> <http://schema.org/datePublished> "2003" .
+<http://www.goodreads.com/book/show/853699-marc-chagall,-1887-1985:-painting-as-poetry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/853699-marc-chagall,-1887-1985:-painting-as-poetry> <http://schema.org/identifier> "853699" .
+<http://www.goodreads.com/book/show/853699-marc-chagall,-1887-1985:-painting-as-poetry> <http://schema.org/name> "Marc Chagall, 1887-1985: Painting as Poetry" .
+<http://www.goodreads.com/book/show/853699-marc-chagall,-1887-1985:-painting-as-poetry> <http://schema.org/creator> "Ingo F. Walther" .
+<http://www.goodreads.com/book/show/853699-marc-chagall,-1887-1985:-painting-as-poetry> <http://schema.org/isbn> "9783822859902" .
+<http://www.goodreads.com/book/show/853699-marc-chagall,-1887-1985:-painting-as-poetry> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/853699-marc-chagall,-1887-1985:-painting-as-poetry> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/853699-marc-chagall,-1887-1985:-painting-as-poetry> <http://schema.org/datePublished> "2000" .
+<http://www.goodreads.com/book/show/342509-andy-warhol,-1928-1987:-commerce-into-art> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/342509-andy-warhol,-1928-1987:-commerce-into-art> <http://schema.org/identifier> "342509" .
+<http://www.goodreads.com/book/show/342509-andy-warhol,-1928-1987:-commerce-into-art> <http://schema.org/name> "Andy Warhol, 1928-1987: Commerce Into Art" .
+<http://www.goodreads.com/book/show/342509-andy-warhol,-1928-1987:-commerce-into-art> <http://schema.org/creator> "Klaus Honnef" .
+<http://www.goodreads.com/book/show/342509-andy-warhol,-1928-1987:-commerce-into-art> <http://schema.org/isbn> "9783822863213" .
+<http://www.goodreads.com/book/show/342509-andy-warhol,-1928-1987:-commerce-into-art> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/342509-andy-warhol,-1928-1987:-commerce-into-art> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/342509-andy-warhol,-1928-1987:-commerce-into-art> <http://schema.org/datePublished> "2000" .
+<http://www.goodreads.com/book/show/326048-mondrian-(basic-art)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/326048-mondrian-(basic-art)> <http://schema.org/identifier> "326048" .
+<http://www.goodreads.com/book/show/326048-mondrian-(basic-art)> <http://schema.org/name> "Mondrian (Basic Art)" .
+<http://www.goodreads.com/book/show/326048-mondrian-(basic-art)> <http://schema.org/creator> "Susanne Deicher" .
+<http://www.goodreads.com/book/show/326048-mondrian-(basic-art)> <http://schema.org/isbn> "9783822859735" .
+<http://www.goodreads.com/book/show/326048-mondrian-(basic-art)> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/326048-mondrian-(basic-art)> <http://schema.org/numberOfPages> "95"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/326048-mondrian-(basic-art)> <http://schema.org/datePublished> "2000" .
+<http://www.goodreads.com/book/show/924336-degas-(basic-art)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/924336-degas-(basic-art)> <http://schema.org/identifier> "924336" .
+<http://www.goodreads.com/book/show/924336-degas-(basic-art)> <http://schema.org/name> "Degas (Basic Art)" .
+<http://www.goodreads.com/book/show/924336-degas-(basic-art)> <http://schema.org/creator> "Bernd Growe" .
+<http://www.goodreads.com/book/show/924336-degas-(basic-art)> <http://schema.org/isbn> "9783822811368" .
+<http://www.goodreads.com/book/show/924336-degas-(basic-art)> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/924336-degas-(basic-art)> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/924336-degas-(basic-art)> <http://schema.org/datePublished> "2001" .
+<http://www.goodreads.com/book/show/677656-hopper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/677656-hopper> <http://schema.org/identifier> "677656" .
+<http://www.goodreads.com/book/show/677656-hopper> <http://schema.org/name> "Hopper" .
+<http://www.goodreads.com/book/show/677656-hopper> <http://schema.org/creator> "Ivo Kranzfelder" .
+<http://www.goodreads.com/book/show/677656-hopper> <http://schema.org/isbn> "9783822820490" .
+<http://www.goodreads.com/book/show/677656-hopper> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/677656-hopper> <http://schema.org/numberOfPages> "200"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/677656-hopper> <http://schema.org/datePublished> "2002" .
+<http://www.goodreads.com/book/show/276708-van-gogh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/276708-van-gogh> <http://schema.org/identifier> "276708" .
+<http://www.goodreads.com/book/show/276708-van-gogh> <http://schema.org/name> "Van Gogh" .
+<http://www.goodreads.com/book/show/276708-van-gogh> <http://schema.org/creator> "Josephine Cutts" .
+<http://www.goodreads.com/book/show/276708-van-gogh> <http://schema.org/isbn> "9780752547268" .
+<http://www.goodreads.com/book/show/276708-van-gogh> <http://schema.org/publisher> "Barnes & Noble" .
+<http://www.goodreads.com/book/show/276708-van-gogh> <http://schema.org/numberOfPages> "256"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/276708-van-gogh> <http://schema.org/datePublished> "2002" .
+<http://www.goodreads.com/book/show/276208-matisse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/276208-matisse> <http://schema.org/identifier> "276208" .
+<http://www.goodreads.com/book/show/276208-matisse> <http://schema.org/name> "Matisse" .
+<http://www.goodreads.com/book/show/276208-matisse> <http://schema.org/creator> "Volkmar Essers" .
+<http://www.goodreads.com/book/show/276208-matisse> <http://schema.org/isbn> "9783822859773" .
+<http://www.goodreads.com/book/show/276208-matisse> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/276208-matisse> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/276208-matisse> <http://schema.org/datePublished> "2000" .
+<http://www.goodreads.com/book/show/796036-amedeo-modigliani,-1884-1920:-the-poetry-of-seeing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/796036-amedeo-modigliani,-1884-1920:-the-poetry-of-seeing> <http://schema.org/identifier> "796036" .
+<http://www.goodreads.com/book/show/796036-amedeo-modigliani,-1884-1920:-the-poetry-of-seeing> <http://schema.org/name> "Amedeo Modigliani, 1884-1920: The Poetry of Seeing" .
+<http://www.goodreads.com/book/show/796036-amedeo-modigliani,-1884-1920:-the-poetry-of-seeing> <http://schema.org/creator> "Doris Krystof" .
+<http://www.goodreads.com/book/show/796036-amedeo-modigliani,-1884-1920:-the-poetry-of-seeing> <http://schema.org/isbn> "9783822863190" .
+<http://www.goodreads.com/book/show/796036-amedeo-modigliani,-1884-1920:-the-poetry-of-seeing> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/796036-amedeo-modigliani,-1884-1920:-the-poetry-of-seeing> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/796036-amedeo-modigliani,-1884-1920:-the-poetry-of-seeing> <http://schema.org/datePublished> "2000" .
+<http://www.goodreads.com/book/show/600652-sandro-botticelli-1444/45---1510> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/600652-sandro-botticelli-1444/45---1510> <http://schema.org/identifier> "600652" .
+<http://www.goodreads.com/book/show/600652-sandro-botticelli-1444/45---1510> <http://schema.org/name> "Sandro Botticelli 1444/45 - 1510" .
+<http://www.goodreads.com/book/show/600652-sandro-botticelli-1444/45---1510> <http://schema.org/creator> "Barbara Deimling" .
+<http://www.goodreads.com/book/show/600652-sandro-botticelli-1444/45---1510> <http://schema.org/isbn> "9783822859926" .
+<http://www.goodreads.com/book/show/600652-sandro-botticelli-1444/45---1510> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/600652-sandro-botticelli-1444/45---1510> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/600652-sandro-botticelli-1444/45---1510> <http://schema.org/datePublished> "2000" .
+<http://www.goodreads.com/book/show/458993-georgia-o'keeffe,-1887-1986:-flowers-in-the-desert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/458993-georgia-o'keeffe,-1887-1986:-flowers-in-the-desert> <http://schema.org/identifier> "458993" .
+<http://www.goodreads.com/book/show/458993-georgia-o'keeffe,-1887-1986:-flowers-in-the-desert> <http://schema.org/name> "Georgia O'Keeffe, 1887-1986: Flowers in the Desert" .
+<http://www.goodreads.com/book/show/458993-georgia-o'keeffe,-1887-1986:-flowers-in-the-desert> <http://schema.org/creator> "Britta Benke" .
+<http://www.goodreads.com/book/show/458993-georgia-o'keeffe,-1887-1986:-flowers-in-the-desert> <http://schema.org/isbn> "9783822858615" .
+<http://www.goodreads.com/book/show/458993-georgia-o'keeffe,-1887-1986:-flowers-in-the-desert> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/458993-georgia-o'keeffe,-1887-1986:-flowers-in-the-desert> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/458993-georgia-o'keeffe,-1887-1986:-flowers-in-the-desert> <http://schema.org/datePublished> "2001" .
+<http://www.goodreads.com/book/show/326059-cézanne-(taschen-basic-art)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/326059-cézanne-(taschen-basic-art)> <http://schema.org/identifier> "326059" .
+<http://www.goodreads.com/book/show/326059-cézanne-(taschen-basic-art)> <http://schema.org/name> "Cézanne (Taschen Basic Art)" .
+<http://www.goodreads.com/book/show/326059-cézanne-(taschen-basic-art)> <http://schema.org/creator> "Ulrike Becks-Malorny" .
+<http://www.goodreads.com/book/show/326059-cézanne-(taschen-basic-art)> <http://schema.org/isbn> "9783822856420" .
+<http://www.goodreads.com/book/show/326059-cézanne-(taschen-basic-art)> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/326059-cézanne-(taschen-basic-art)> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/326059-cézanne-(taschen-basic-art)> <http://schema.org/datePublished> "2001" .
+<http://www.goodreads.com/book/show/754768-toulouse-lautrec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/754768-toulouse-lautrec> <http://schema.org/identifier> "754768" .
+<http://www.goodreads.com/book/show/754768-toulouse-lautrec> <http://schema.org/name> "Toulouse-Lautrec" .
+<http://www.goodreads.com/book/show/754768-toulouse-lautrec> <http://schema.org/creator> "Matthias Arnold" .
+<http://www.goodreads.com/book/show/754768-toulouse-lautrec> <http://schema.org/isbn> "9783822809624" .
+<http://www.goodreads.com/book/show/754768-toulouse-lautrec> <http://schema.org/publisher> "Taschen America Llc" .
+<http://www.goodreads.com/book/show/754768-toulouse-lautrec> <http://schema.org/numberOfPages> "95"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/754768-toulouse-lautrec> <http://schema.org/datePublished> "2005" .
+<http://www.goodreads.com/book/show/736143-j.m.w.-turner,-1775-1851:-the-world-of-light-and-colour> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/736143-j.m.w.-turner,-1775-1851:-the-world-of-light-and-colour> <http://schema.org/identifier> "736143" .
+<http://www.goodreads.com/book/show/736143-j.m.w.-turner,-1775-1851:-the-world-of-light-and-colour> <http://schema.org/name> "J.M.W. Turner, 1775-1851: The World of Light and Colour" .
+<http://www.goodreads.com/book/show/736143-j.m.w.-turner,-1775-1851:-the-world-of-light-and-colour> <http://schema.org/creator> "Michael Bockemühl" .
+<http://www.goodreads.com/book/show/736143-j.m.w.-turner,-1775-1851:-the-world-of-light-and-colour> <http://schema.org/isbn> "9783822863251" .
+<http://www.goodreads.com/book/show/736143-j.m.w.-turner,-1775-1851:-the-world-of-light-and-colour> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/736143-j.m.w.-turner,-1775-1851:-the-world-of-light-and-colour> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/736143-j.m.w.-turner,-1775-1851:-the-world-of-light-and-colour> <http://schema.org/datePublished> "2000" .
+<http://www.goodreads.com/book/show/600654-caravaggio,-1571-1610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/600654-caravaggio,-1571-1610> <http://schema.org/identifier> "600654" .
+<http://www.goodreads.com/book/show/600654-caravaggio,-1571-1610> <http://schema.org/name> "Caravaggio, 1571-1610" .
+<http://www.goodreads.com/book/show/600654-caravaggio,-1571-1610> <http://schema.org/creator> "Gilles Lambert" .
+<http://www.goodreads.com/book/show/600654-caravaggio,-1571-1610> <http://schema.org/isbn> "9783822863053" .
+<http://www.goodreads.com/book/show/600654-caravaggio,-1571-1610> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/600654-caravaggio,-1571-1610> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/600654-caravaggio,-1571-1610> <http://schema.org/datePublished> "2000" .
+<http://www.goodreads.com/book/show/191721-manet-(taschen-basic-art)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/191721-manet-(taschen-basic-art)> <http://schema.org/identifier> "191721" .
+<http://www.goodreads.com/book/show/191721-manet-(taschen-basic-art)> <http://schema.org/name> "Manet (Taschen Basic Art)" .
+<http://www.goodreads.com/book/show/191721-manet-(taschen-basic-art)> <http://schema.org/creator> "Gilles Néret" .
+<http://www.goodreads.com/book/show/191721-manet-(taschen-basic-art)> <http://schema.org/isbn> "9783822819494" .
+<http://www.goodreads.com/book/show/191721-manet-(taschen-basic-art)> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/191721-manet-(taschen-basic-art)> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/191721-manet-(taschen-basic-art)> <http://schema.org/datePublished> "2003" .
+<http://www.goodreads.com/book/show/1640252-vermeer,-1632-1675:-veiled-emotions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/1640252-vermeer,-1632-1675:-veiled-emotions> <http://schema.org/identifier> "1640252" .
+<http://www.goodreads.com/book/show/1640252-vermeer,-1632-1675:-veiled-emotions> <http://schema.org/name> "Vermeer, 1632-1675: Veiled Emotions" .
+<http://www.goodreads.com/book/show/1640252-vermeer,-1632-1675:-veiled-emotions> <http://schema.org/creator> "Norbert Schneider" .
+<http://www.goodreads.com/book/show/1640252-vermeer,-1632-1675:-veiled-emotions> <http://schema.org/isbn> "9783822863237" .
+<http://www.goodreads.com/book/show/1640252-vermeer,-1632-1675:-veiled-emotions> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/1640252-vermeer,-1632-1675:-veiled-emotions> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/1640252-vermeer,-1632-1675:-veiled-emotions> <http://schema.org/datePublished> "2000" .
+<http://www.goodreads.com/book/show/600656-leonardo-da-vinci,-1452-1519> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/600656-leonardo-da-vinci,-1452-1519> <http://schema.org/identifier> "600656" .
+<http://www.goodreads.com/book/show/600656-leonardo-da-vinci,-1452-1519> <http://schema.org/name> "Leonardo Da Vinci, 1452-1519" .
+<http://www.goodreads.com/book/show/600656-leonardo-da-vinci,-1452-1519> <http://schema.org/creator> "Frank Zöllner" .
+<http://www.goodreads.com/book/show/600656-leonardo-da-vinci,-1452-1519> <http://schema.org/isbn> "9783822859797" .
+<http://www.goodreads.com/book/show/600656-leonardo-da-vinci,-1452-1519> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/600656-leonardo-da-vinci,-1452-1519> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/600656-leonardo-da-vinci,-1452-1519> <http://schema.org/datePublished> "2000" .
+<http://www.goodreads.com/book/show/275058-pierre-auguste-renoir,-1841-1919:-a-dream-of-harmony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/275058-pierre-auguste-renoir,-1841-1919:-a-dream-of-harmony> <http://schema.org/identifier> "275058" .
+<http://www.goodreads.com/book/show/275058-pierre-auguste-renoir,-1841-1919:-a-dream-of-harmony> <http://schema.org/name> "Pierre-Auguste Renoir, 1841-1919: A Dream of Harmony" .
+<http://www.goodreads.com/book/show/275058-pierre-auguste-renoir,-1841-1919:-a-dream-of-harmony> <http://schema.org/creator> "Peter H. Feist" .
+<http://www.goodreads.com/book/show/275058-pierre-auguste-renoir,-1841-1919:-a-dream-of-harmony> <http://schema.org/isbn> "9783822863282" .
+<http://www.goodreads.com/book/show/275058-pierre-auguste-renoir,-1841-1919:-a-dream-of-harmony> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/275058-pierre-auguste-renoir,-1841-1919:-a-dream-of-harmony> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/275058-pierre-auguste-renoir,-1841-1919:-a-dream-of-harmony> <http://schema.org/datePublished> "2000" .
+<http://www.goodreads.com/book/show/853701-vincent-van-gogh,-1853-1890:-vision-and-reality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/853701-vincent-van-gogh,-1853-1890:-vision-and-reality> <http://schema.org/identifier> "853701" .
+<http://www.goodreads.com/book/show/853701-vincent-van-gogh,-1853-1890:-vision-and-reality> <http://schema.org/name> "Vincent Van Gogh, 1853-1890: Vision and Reality" .
+<http://www.goodreads.com/book/show/853701-vincent-van-gogh,-1853-1890:-vision-and-reality> <http://schema.org/creator> "Ingo F. Walther" .
+<http://www.goodreads.com/book/show/853701-vincent-van-gogh,-1853-1890:-vision-and-reality> <http://schema.org/isbn> "9783822863220" .
+<http://www.goodreads.com/book/show/853701-vincent-van-gogh,-1853-1890:-vision-and-reality> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/853701-vincent-van-gogh,-1853-1890:-vision-and-reality> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/853701-vincent-van-gogh,-1853-1890:-vision-and-reality> <http://schema.org/datePublished> "1999" .
+<http://www.goodreads.com/book/show/326386-monet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/326386-monet> <http://schema.org/identifier> "326386" .
+<http://www.goodreads.com/book/show/326386-monet> <http://schema.org/name> "Monet" .
+<http://www.goodreads.com/book/show/326386-monet> <http://schema.org/creator> "Christoph Heinrich" .
+<http://www.goodreads.com/book/show/326386-monet> <http://schema.org/isbn> "9783822861981" .
+<http://www.goodreads.com/book/show/326386-monet> <http://schema.org/publisher> "Benedikt Taschen Verlag" .
+<http://www.goodreads.com/book/show/326386-monet> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/326386-monet> <http://schema.org/datePublished> "1996" .
+<http://www.goodreads.com/book/show/11174216-kandinsky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/11174216-kandinsky> <http://schema.org/identifier> "11174216" .
+<http://www.goodreads.com/book/show/11174216-kandinsky> <http://schema.org/name> "Kandinsky" .
+<http://www.goodreads.com/book/show/11174216-kandinsky> <http://schema.org/creator> "Fabio Amico" .
+<http://www.goodreads.com/book/show/11174216-kandinsky> <http://schema.org/publisher> "Rizzoli Skira" .
+<http://www.goodreads.com/book/show/11174216-kandinsky> <http://schema.org/numberOfPages> "189"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/11174216-kandinsky> <http://schema.org/datePublished> "2004" .
+<http://www.goodreads.com/book/show/2815773-kandinsky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/2815773-kandinsky> <http://schema.org/identifier> "2815773" .
+<http://www.goodreads.com/book/show/2815773-kandinsky> <http://schema.org/name> "Kandinsky" .
+<http://www.goodreads.com/book/show/2815773-kandinsky> <http://schema.org/creator> "François Le Targat" .
+<http://www.goodreads.com/book/show/2815773-kandinsky> <http://schema.org/isbn> "9780847808106" .
+<http://www.goodreads.com/book/show/2815773-kandinsky> <http://schema.org/publisher> "Rizzoli" .
+<http://www.goodreads.com/book/show/2815773-kandinsky> <http://schema.org/numberOfPages> "128"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/2815773-kandinsky> <http://schema.org/datePublished> "1990" .
+<http://www.goodreads.com/book/show/18723524-kandinsky:-a-retrospective> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/18723524-kandinsky:-a-retrospective> <http://schema.org/identifier> "18723524" .
+<http://www.goodreads.com/book/show/18723524-kandinsky:-a-retrospective> <http://schema.org/name> "Kandinsky: A Retrospective" .
+<http://www.goodreads.com/book/show/18723524-kandinsky:-a-retrospective> <http://schema.org/creator> "Angela Lampe" .
+<http://www.goodreads.com/book/show/18723524-kandinsky:-a-retrospective> <http://schema.org/isbn> "9780300206630" .
+<http://www.goodreads.com/book/show/18723524-kandinsky:-a-retrospective> <http://schema.org/publisher> "Other Distribution" .
+<http://www.goodreads.com/book/show/18723524-kandinsky:-a-retrospective> <http://schema.org/numberOfPages> "202"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/18723524-kandinsky:-a-retrospective> <http://schema.org/datePublished> "2014" .
+<http://www.goodreads.com/book/show/402539-wassily-kandinsky:-1866-1944-a-revolution-in-painting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/402539-wassily-kandinsky:-1866-1944-a-revolution-in-painting> <http://schema.org/identifier> "402539" .
+<http://www.goodreads.com/book/show/402539-wassily-kandinsky:-1866-1944-a-revolution-in-painting> <http://schema.org/name> "Wassily Kandinsky: 1866-1944 a Revolution in Painting" .
+<http://www.goodreads.com/book/show/402539-wassily-kandinsky:-1866-1944-a-revolution-in-painting> <http://schema.org/creator> "Hajo Düchting" .
+<http://www.goodreads.com/book/show/402539-wassily-kandinsky:-1866-1944-a-revolution-in-painting> <http://schema.org/isbn> "9783822859827" .
+<http://www.goodreads.com/book/show/402539-wassily-kandinsky:-1866-1944-a-revolution-in-painting> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/402539-wassily-kandinsky:-1866-1944-a-revolution-in-painting> <http://schema.org/numberOfPages> "95"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/402539-wassily-kandinsky:-1866-1944-a-revolution-in-painting> <http://schema.org/datePublished> "1999" .
+<http://www.goodreads.com/book/show/1657849-kandinsky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/1657849-kandinsky> <http://schema.org/identifier> "1657849" .
+<http://www.goodreads.com/book/show/1657849-kandinsky> <http://schema.org/name> "Kandinsky" .
+<http://www.goodreads.com/book/show/1657849-kandinsky> <http://schema.org/creator> "Ulrike Becks-Malorny" .
+<http://www.goodreads.com/book/show/1657849-kandinsky> <http://schema.org/isbn> "9783822835647" .
+<http://www.goodreads.com/book/show/1657849-kandinsky> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/1657849-kandinsky> <http://schema.org/numberOfPages> "200"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/1657849-kandinsky> <http://schema.org/datePublished> "2007" .
+<http://www.goodreads.com/book/show/40603383-vincent-and-theo:-the-van-gogh-brothers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/40603383-vincent-and-theo:-the-van-gogh-brothers> <http://schema.org/identifier> "40603383" .
+<http://www.goodreads.com/book/show/40603383-vincent-and-theo:-the-van-gogh-brothers> <http://schema.org/name> "Vincent and Theo: The Van Gogh Brothers" .
+<http://www.goodreads.com/book/show/40603383-vincent-and-theo:-the-van-gogh-brothers> <http://schema.org/creator> "Deborah Heiligman" .
+<http://www.goodreads.com/book/show/40603383-vincent-and-theo:-the-van-gogh-brothers> <http://schema.org/publisher> "Henry Holt and Co." .
+<http://www.goodreads.com/book/show/40603383-vincent-and-theo:-the-van-gogh-brothers> <http://schema.org/numberOfPages> "465"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/40603383-vincent-and-theo:-the-van-gogh-brothers> <http://schema.org/datePublished> "2017" .
+<http://www.goodreads.com/book/show/91749-masters-of-deception:-escher,-dali,-and-the-artists-of-optical-illusion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/91749-masters-of-deception:-escher,-dali,-and-the-artists-of-optical-illusion> <http://schema.org/identifier> "91749" .
+<http://www.goodreads.com/book/show/91749-masters-of-deception:-escher,-dali,-and-the-artists-of-optical-illusion> <http://schema.org/name> "Masters of Deception: Escher, Dali, and the Artists of Optical Illusion" .
+<http://www.goodreads.com/book/show/91749-masters-of-deception:-escher,-dali,-and-the-artists-of-optical-illusion> <http://schema.org/creator> "Al Seckel" .
+<http://www.goodreads.com/book/show/91749-masters-of-deception:-escher,-dali,-and-the-artists-of-optical-illusion> <http://schema.org/isbn> "9781402705779" .
+<http://www.goodreads.com/book/show/91749-masters-of-deception:-escher,-dali,-and-the-artists-of-optical-illusion> <http://schema.org/publisher> "Sterling" .
+<http://www.goodreads.com/book/show/91749-masters-of-deception:-escher,-dali,-and-the-artists-of-optical-illusion> <http://schema.org/numberOfPages> "320"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/91749-masters-of-deception:-escher,-dali,-and-the-artists-of-optical-illusion> <http://schema.org/datePublished> "2004" .
+<http://www.goodreads.com/book/show/402910-hopper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/402910-hopper> <http://schema.org/identifier> "402910" .
+<http://www.goodreads.com/book/show/402910-hopper> <http://schema.org/name> "Hopper" .
+<http://www.goodreads.com/book/show/402910-hopper> <http://schema.org/creator> "Rolf Günter Renner" .
+<http://www.goodreads.com/book/show/402910-hopper> <http://schema.org/isbn> "9783822859858" .
+<http://www.goodreads.com/book/show/402910-hopper> <http://schema.org/publisher> "Benedikt Taschen Verlag GmbH" .
+<http://www.goodreads.com/book/show/402910-hopper> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/402910-hopper> <http://schema.org/datePublished> "2000" .
+<http://www.goodreads.com/book/show/101407-the-yellow-house:-van-gogh,-gauguin,-and-nine-turbulent-weeks-in-arles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/101407-the-yellow-house:-van-gogh,-gauguin,-and-nine-turbulent-weeks-in-arles> <http://schema.org/identifier> "101407" .
+<http://www.goodreads.com/book/show/101407-the-yellow-house:-van-gogh,-gauguin,-and-nine-turbulent-weeks-in-arles> <http://schema.org/name> "The Yellow House: Van Gogh, Gauguin, and Nine Turbulent Weeks in Arles" .
+<http://www.goodreads.com/book/show/101407-the-yellow-house:-van-gogh,-gauguin,-and-nine-turbulent-weeks-in-arles> <http://schema.org/creator> "Martin Gayford" .
+<http://www.goodreads.com/book/show/101407-the-yellow-house:-van-gogh,-gauguin,-and-nine-turbulent-weeks-in-arles> <http://schema.org/isbn> "9780316769013" .
+<http://www.goodreads.com/book/show/101407-the-yellow-house:-van-gogh,-gauguin,-and-nine-turbulent-weeks-in-arles> <http://schema.org/publisher> "Little Brown and Company" .
+<http://www.goodreads.com/book/show/101407-the-yellow-house:-van-gogh,-gauguin,-and-nine-turbulent-weeks-in-arles> <http://schema.org/numberOfPages> "339"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/101407-the-yellow-house:-van-gogh,-gauguin,-and-nine-turbulent-weeks-in-arles> <http://schema.org/datePublished> "2006" .
+<http://www.goodreads.com/book/show/901680-edvard-munch:-1863-1944-(basic-art)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/901680-edvard-munch:-1863-1944-(basic-art)> <http://schema.org/identifier> "901680" .
+<http://www.goodreads.com/book/show/901680-edvard-munch:-1863-1944-(basic-art)> <http://schema.org/name> "Edvard Munch: 1863-1944 (Basic Art)" .
+<http://www.goodreads.com/book/show/901680-edvard-munch:-1863-1944-(basic-art)> <http://schema.org/creator> "Ulrich Bischoff" .
+<http://www.goodreads.com/book/show/901680-edvard-munch:-1863-1944-(basic-art)> <http://schema.org/isbn> "9783822859711" .
+<http://www.goodreads.com/book/show/901680-edvard-munch:-1863-1944-(basic-art)> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/901680-edvard-munch:-1863-1944-(basic-art)> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/901680-edvard-munch:-1863-1944-(basic-art)> <http://schema.org/datePublished> "2011" .
+<http://www.goodreads.com/book/show/32525-art-through-the-ages-> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/32525-art-through-the-ages-> <http://schema.org/identifier> "32525" .
+<http://www.goodreads.com/book/show/32525-art-through-the-ages-> <http://schema.org/name> "Art Through the Ages " .
+<http://www.goodreads.com/book/show/32525-art-through-the-ages-> <http://schema.org/creator> "Helen Gardner" .
+<http://www.goodreads.com/book/show/32525-art-through-the-ages-> <http://schema.org/isbn> "9780155050907" .
+<http://www.goodreads.com/book/show/32525-art-through-the-ages-> <http://schema.org/publisher> "Wadsworth Publishing" .
+<http://www.goodreads.com/book/show/32525-art-through-the-ages-> <http://schema.org/numberOfPages> "1150"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/32525-art-through-the-ages-> <http://schema.org/datePublished> "2004" .
+<http://www.goodreads.com/book/show/857502-concerning-the-spiritual-in-art> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/857502-concerning-the-spiritual-in-art> <http://schema.org/identifier> "857502" .
+<http://www.goodreads.com/book/show/857502-concerning-the-spiritual-in-art> <http://schema.org/name> "Concerning the Spiritual in Art" .
+<http://www.goodreads.com/book/show/857502-concerning-the-spiritual-in-art> <http://schema.org/creator> "Wassily Kandinsky" .
+<http://www.goodreads.com/book/show/857502-concerning-the-spiritual-in-art> <http://schema.org/isbn> "9780486234113" .
+<http://www.goodreads.com/book/show/857502-concerning-the-spiritual-in-art> <http://schema.org/publisher> "Dover Publications" .
+<http://www.goodreads.com/book/show/857502-concerning-the-spiritual-in-art> <http://schema.org/numberOfPages> "80"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/857502-concerning-the-spiritual-in-art> <http://schema.org/datePublished> "1977" .
+<http://www.goodreads.com/book/show/395233-the-letters-of-vincent-van-gogh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/395233-the-letters-of-vincent-van-gogh> <http://schema.org/identifier> "395233" .
+<http://www.goodreads.com/book/show/395233-the-letters-of-vincent-van-gogh> <http://schema.org/name> "The Letters of Vincent van Gogh" .
+<http://www.goodreads.com/book/show/395233-the-letters-of-vincent-van-gogh> <http://schema.org/creator> "Vincent van Gogh" .
+<http://www.goodreads.com/book/show/395233-the-letters-of-vincent-van-gogh> <http://schema.org/isbn> "9780140446746" .
+<http://www.goodreads.com/book/show/395233-the-letters-of-vincent-van-gogh> <http://schema.org/publisher> "Penguin Classics" .
+<http://www.goodreads.com/book/show/395233-the-letters-of-vincent-van-gogh> <http://schema.org/numberOfPages> "528"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/395233-the-letters-of-vincent-van-gogh> <http://schema.org/datePublished> "1997" .
+<http://www.goodreads.com/book/show/114683-wall-and-piece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/114683-wall-and-piece> <http://schema.org/identifier> "114683" .
+<http://www.goodreads.com/book/show/114683-wall-and-piece> <http://schema.org/name> "Wall and Piece" .
+<http://www.goodreads.com/book/show/114683-wall-and-piece> <http://schema.org/creator> "Banksy" .
+<http://www.goodreads.com/book/show/114683-wall-and-piece> <http://schema.org/isbn> "9781844137879" .
+<http://www.goodreads.com/book/show/114683-wall-and-piece> <http://schema.org/publisher> "Century" .
+<http://www.goodreads.com/book/show/114683-wall-and-piece> <http://schema.org/numberOfPages> "240"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/114683-wall-and-piece> <http://schema.org/datePublished> "2006" .
+<http://www.goodreads.com/book/show/2865-girl-with-a-pearl-earring> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/2865-girl-with-a-pearl-earring> <http://schema.org/identifier> "2865" .
+<http://www.goodreads.com/book/show/2865-girl-with-a-pearl-earring> <http://schema.org/name> "Girl with a Pearl Earring" .
+<http://www.goodreads.com/book/show/2865-girl-with-a-pearl-earring> <http://schema.org/creator> "Tracy Chevalier" .
+<http://www.goodreads.com/book/show/2865-girl-with-a-pearl-earring> <http://schema.org/isbn> "9780452287020" .
+<http://www.goodreads.com/book/show/2865-girl-with-a-pearl-earring> <http://schema.org/publisher> "Plume/Penguin" .
+<http://www.goodreads.com/book/show/2865-girl-with-a-pearl-earring> <http://schema.org/numberOfPages> "233"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/2865-girl-with-a-pearl-earring> <http://schema.org/datePublished> "2005" .
+<http://www.goodreads.com/book/show/28078-the-birth-of-venus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/28078-the-birth-of-venus> <http://schema.org/identifier> "28078" .
+<http://www.goodreads.com/book/show/28078-the-birth-of-venus> <http://schema.org/name> "The Birth of Venus" .
+<http://www.goodreads.com/book/show/28078-the-birth-of-venus> <http://schema.org/creator> "Sarah Dunant" .
+<http://www.goodreads.com/book/show/28078-the-birth-of-venus> <http://schema.org/isbn> "9780812968972" .
+<http://www.goodreads.com/book/show/28078-the-birth-of-venus> <http://schema.org/publisher> "Random House" .
+<http://www.goodreads.com/book/show/28078-the-birth-of-venus> <http://schema.org/numberOfPages> "427"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/28078-the-birth-of-venus> <http://schema.org/datePublished> "2004" .
+<http://www.goodreads.com/book/show/3061-the-natural-way-to-draw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/3061-the-natural-way-to-draw> <http://schema.org/identifier> "3061" .
+<http://www.goodreads.com/book/show/3061-the-natural-way-to-draw> <http://schema.org/name> "The Natural Way to Draw" .
+<http://www.goodreads.com/book/show/3061-the-natural-way-to-draw> <http://schema.org/creator> "Kimon Nicolaides" .
+<http://www.goodreads.com/book/show/3061-the-natural-way-to-draw> <http://schema.org/isbn> "9780395530078" .
+<http://www.goodreads.com/book/show/3061-the-natural-way-to-draw> <http://schema.org/publisher> "Mariner Books" .
+<http://www.goodreads.com/book/show/3061-the-natural-way-to-draw> <http://schema.org/numberOfPages> "240"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/3061-the-natural-way-to-draw> <http://schema.org/datePublished> "1990" .
+<http://www.goodreads.com/book/show/7821828-the-hare-with-amber-eyes:-a-family's-century-of-art-and-loss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/7821828-the-hare-with-amber-eyes:-a-family's-century-of-art-and-loss> <http://schema.org/identifier> "7821828" .
+<http://www.goodreads.com/book/show/7821828-the-hare-with-amber-eyes:-a-family's-century-of-art-and-loss> <http://schema.org/name> "The Hare With Amber Eyes: A Family's Century of Art and Loss" .
+<http://www.goodreads.com/book/show/7821828-the-hare-with-amber-eyes:-a-family's-century-of-art-and-loss> <http://schema.org/creator> "Edmund de Waal" .
+<http://www.goodreads.com/book/show/7821828-the-hare-with-amber-eyes:-a-family's-century-of-art-and-loss> <http://schema.org/isbn> "9780374105976" .
+<http://www.goodreads.com/book/show/7821828-the-hare-with-amber-eyes:-a-family's-century-of-art-and-loss> <http://schema.org/publisher> "Farrar, Straus and Giroux" .
+<http://www.goodreads.com/book/show/7821828-the-hare-with-amber-eyes:-a-family's-century-of-art-and-loss> <http://schema.org/numberOfPages> "368"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/7821828-the-hare-with-amber-eyes:-a-family's-century-of-art-and-loss> <http://schema.org/datePublished> "2010" .
+<http://www.goodreads.com/book/show/40168-the-creative-license:-giving-yourself-permission-to-be-the-artist-you-truly-are> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/40168-the-creative-license:-giving-yourself-permission-to-be-the-artist-you-truly-are> <http://schema.org/identifier> "40168" .
+<http://www.goodreads.com/book/show/40168-the-creative-license:-giving-yourself-permission-to-be-the-artist-you-truly-are> <http://schema.org/name> "The Creative License: Giving Yourself Permission to Be The Artist You Truly Are" .
+<http://www.goodreads.com/book/show/40168-the-creative-license:-giving-yourself-permission-to-be-the-artist-you-truly-are> <http://schema.org/creator> "Danny Gregory" .
+<http://www.goodreads.com/book/show/40168-the-creative-license:-giving-yourself-permission-to-be-the-artist-you-truly-are> <http://schema.org/isbn> "9781401307929" .
+<http://www.goodreads.com/book/show/40168-the-creative-license:-giving-yourself-permission-to-be-the-artist-you-truly-are> <http://schema.org/publisher> "Hachette Books" .
+<http://www.goodreads.com/book/show/40168-the-creative-license:-giving-yourself-permission-to-be-the-artist-you-truly-are> <http://schema.org/numberOfPages> "208"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/40168-the-creative-license:-giving-yourself-permission-to-be-the-artist-you-truly-are> <http://schema.org/datePublished> "2006" .
+<http://www.goodreads.com/book/show/497164-camera-lucida:-reflections-on-photography> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/497164-camera-lucida:-reflections-on-photography> <http://schema.org/identifier> "497164" .
+<http://www.goodreads.com/book/show/497164-camera-lucida:-reflections-on-photography> <http://schema.org/name> "Camera Lucida: Reflections on Photography" .
+<http://www.goodreads.com/book/show/497164-camera-lucida:-reflections-on-photography> <http://schema.org/creator> "Roland Barthes" .
+<http://www.goodreads.com/book/show/497164-camera-lucida:-reflections-on-photography> <http://schema.org/isbn> "9780374521349" .
+<http://www.goodreads.com/book/show/497164-camera-lucida:-reflections-on-photography> <http://schema.org/publisher> "Hill and Wang" .
+<http://www.goodreads.com/book/show/497164-camera-lucida:-reflections-on-photography> <http://schema.org/numberOfPages> "119"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/497164-camera-lucida:-reflections-on-photography> <http://schema.org/datePublished> "1982" .
+<http://www.goodreads.com/book/show/37826511-bibliophile:-an-illustrated-miscellany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/37826511-bibliophile:-an-illustrated-miscellany> <http://schema.org/identifier> "37826511" .
+<http://www.goodreads.com/book/show/37826511-bibliophile:-an-illustrated-miscellany> <http://schema.org/name> "Bibliophile: An Illustrated Miscellany" .
+<http://www.goodreads.com/book/show/37826511-bibliophile:-an-illustrated-miscellany> <http://schema.org/creator> "Jane Mount" .
+<http://www.goodreads.com/book/show/37826511-bibliophile:-an-illustrated-miscellany> <http://schema.org/isbn> "9781452167237" .
+<http://www.goodreads.com/book/show/37826511-bibliophile:-an-illustrated-miscellany> <http://schema.org/publisher> "Chronicle Books" .
+<http://www.goodreads.com/book/show/37826511-bibliophile:-an-illustrated-miscellany> <http://schema.org/numberOfPages> "224"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/37826511-bibliophile:-an-illustrated-miscellany> <http://schema.org/datePublished> "2018" .
+<http://www.goodreads.com/book/show/7907803-an-object-of-beauty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/7907803-an-object-of-beauty> <http://schema.org/identifier> "7907803" .
+<http://www.goodreads.com/book/show/7907803-an-object-of-beauty> <http://schema.org/name> "An Object of Beauty" .
+<http://www.goodreads.com/book/show/7907803-an-object-of-beauty> <http://schema.org/creator> "Steve Martin" .
+<http://www.goodreads.com/book/show/7907803-an-object-of-beauty> <http://schema.org/isbn> "9780446573641" .
+<http://www.goodreads.com/book/show/7907803-an-object-of-beauty> <http://schema.org/publisher> "Grand Central Publishing" .
+<http://www.goodreads.com/book/show/7907803-an-object-of-beauty> <http://schema.org/numberOfPages> "304"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/7907803-an-object-of-beauty> <http://schema.org/datePublished> "2010" .
+<http://www.goodreads.com/book/show/34684622-leonardo-da-vinci> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/34684622-leonardo-da-vinci> <http://schema.org/identifier> "34684622" .
+<http://www.goodreads.com/book/show/34684622-leonardo-da-vinci> <http://schema.org/name> "Leonardo da Vinci" .
+<http://www.goodreads.com/book/show/34684622-leonardo-da-vinci> <http://schema.org/creator> "Walter Isaacson" .
+<http://www.goodreads.com/book/show/34684622-leonardo-da-vinci> <http://schema.org/isbn> "9781501139154" .
+<http://www.goodreads.com/book/show/34684622-leonardo-da-vinci> <http://schema.org/publisher> "Simon  Schuster" .
+<http://www.goodreads.com/book/show/34684622-leonardo-da-vinci> <http://schema.org/numberOfPages> "600"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/34684622-leonardo-da-vinci> <http://schema.org/datePublished> "2017" .
+<http://www.goodreads.com/book/show/103902-gustav-klimt:-1862-1918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/103902-gustav-klimt:-1862-1918> <http://schema.org/identifier> "103902" .
+<http://www.goodreads.com/book/show/103902-gustav-klimt:-1862-1918> <http://schema.org/name> "Gustav Klimt: 1862-1918" .
+<http://www.goodreads.com/book/show/103902-gustav-klimt:-1862-1918> <http://schema.org/creator> "Gilles Néret" .
+<http://www.goodreads.com/book/show/103902-gustav-klimt:-1862-1918> <http://schema.org/isbn> "9783822859803" .
+<http://www.goodreads.com/book/show/103902-gustav-klimt:-1862-1918> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/103902-gustav-klimt:-1862-1918> <http://schema.org/numberOfPages> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/103902-gustav-klimt:-1862-1918> <http://schema.org/datePublished> "1999" .
+<http://www.goodreads.com/book/show/31937362-the-italian-teacher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/31937362-the-italian-teacher> <http://schema.org/identifier> "31937362" .
+<http://www.goodreads.com/book/show/31937362-the-italian-teacher> <http://schema.org/name> "The Italian Teacher" .
+<http://www.goodreads.com/book/show/31937362-the-italian-teacher> <http://schema.org/creator> "Tom Rachman" .
+<http://www.goodreads.com/book/show/31937362-the-italian-teacher> <http://schema.org/isbn> "9781786482570" .
+<http://www.goodreads.com/book/show/31937362-the-italian-teacher> <http://schema.org/publisher> "Riverrun" .
+<http://www.goodreads.com/book/show/31937362-the-italian-teacher> <http://schema.org/numberOfPages> "336"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/31937362-the-italian-teacher> <http://schema.org/datePublished> "2018" .
+<http://www.goodreads.com/book/show/19797-the-power-of-art> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/19797-the-power-of-art> <http://schema.org/identifier> "19797" .
+<http://www.goodreads.com/book/show/19797-the-power-of-art> <http://schema.org/name> "The Power of Art" .
+<http://www.goodreads.com/book/show/19797-the-power-of-art> <http://schema.org/creator> "Simon Schama" .
+<http://www.goodreads.com/book/show/19797-the-power-of-art> <http://schema.org/isbn> "9780061176104" .
+<http://www.goodreads.com/book/show/19797-the-power-of-art> <http://schema.org/publisher> "Ecco" .
+<http://www.goodreads.com/book/show/19797-the-power-of-art> <http://schema.org/numberOfPages> "448"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/19797-the-power-of-art> <http://schema.org/datePublished> "2006" .
+<http://www.goodreads.com/book/show/207781-the-art-spirit:-notes,-articles,-fragments-of-letters-and-talks-to-students,-bearing-on-the-concept-and-technique-of-picture-making,-the-study-of-art-(icon-editions)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/207781-the-art-spirit:-notes,-articles,-fragments-of-letters-and-talks-to-students,-bearing-on-the-concept-and-technique-of-picture-making,-the-study-of-art-(icon-editions)> <http://schema.org/identifier> "207781" .
+<http://www.goodreads.com/book/show/207781-the-art-spirit:-notes,-articles,-fragments-of-letters-and-talks-to-students,-bearing-on-the-concept-and-technique-of-picture-making,-the-study-of-art-(icon-editions)> <http://schema.org/name> "The Art Spirit: Notes, Articles, Fragments of Letters and Talks to Students, Bearing on the Concept and Technique of Picture Making, the Study of Art (Icon Editions)" .
+<http://www.goodreads.com/book/show/207781-the-art-spirit:-notes,-articles,-fragments-of-letters-and-talks-to-students,-bearing-on-the-concept-and-technique-of-picture-making,-the-study-of-art-(icon-editions)> <http://schema.org/creator> "Robert Henri" .
+<http://www.goodreads.com/book/show/207781-the-art-spirit:-notes,-articles,-fragments-of-letters-and-talks-to-students,-bearing-on-the-concept-and-technique-of-picture-making,-the-study-of-art-(icon-editions)> <http://schema.org/isbn> "9780064301381" .
+<http://www.goodreads.com/book/show/207781-the-art-spirit:-notes,-articles,-fragments-of-letters-and-talks-to-students,-bearing-on-the-concept-and-technique-of-picture-making,-the-study-of-art-(icon-editions)> <http://schema.org/publisher> "Westview Press" .
+<http://www.goodreads.com/book/show/207781-the-art-spirit:-notes,-articles,-fragments-of-letters-and-talks-to-students,-bearing-on-the-concept-and-technique-of-picture-making,-the-study-of-art-(icon-editions)> <http://schema.org/numberOfPages> "284"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/207781-the-art-spirit:-notes,-articles,-fragments-of-letters-and-talks-to-students,-bearing-on-the-concept-and-technique-of-picture-making,-the-study-of-art-(icon-editions)> <http://schema.org/datePublished> "1984" .
+<http://www.goodreads.com/book/show/91767-frida:-a-biography-of-frida-kahlo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/91767-frida:-a-biography-of-frida-kahlo> <http://schema.org/identifier> "91767" .
+<http://www.goodreads.com/book/show/91767-frida:-a-biography-of-frida-kahlo> <http://schema.org/name> "Frida: A Biography of Frida Kahlo" .
+<http://www.goodreads.com/book/show/91767-frida:-a-biography-of-frida-kahlo> <http://schema.org/creator> "Hayden Herrera" .
+<http://www.goodreads.com/book/show/91767-frida:-a-biography-of-frida-kahlo> <http://schema.org/isbn> "9780060085896" .
+<http://www.goodreads.com/book/show/91767-frida:-a-biography-of-frida-kahlo> <http://schema.org/publisher> "Harper Perennial" .
+<http://www.goodreads.com/book/show/91767-frida:-a-biography-of-frida-kahlo> <http://schema.org/numberOfPages> "528"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/91767-frida:-a-biography-of-frida-kahlo> <http://schema.org/datePublished> "2002" .
+<http://www.goodreads.com/book/show/737957-michelangelo-and-the-pope's-ceiling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/737957-michelangelo-and-the-pope's-ceiling> <http://schema.org/identifier> "737957" .
+<http://www.goodreads.com/book/show/737957-michelangelo-and-the-pope's-ceiling> <http://schema.org/name> "Michelangelo and the Pope's Ceiling" .
+<http://www.goodreads.com/book/show/737957-michelangelo-and-the-pope's-ceiling> <http://schema.org/creator> "Ross King" .
+<http://www.goodreads.com/book/show/737957-michelangelo-and-the-pope's-ceiling> <http://schema.org/isbn> "9780142003695" .
+<http://www.goodreads.com/book/show/737957-michelangelo-and-the-pope's-ceiling> <http://schema.org/publisher> "Penguin" .
+<http://www.goodreads.com/book/show/737957-michelangelo-and-the-pope's-ceiling> <http://schema.org/numberOfPages> "384"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/737957-michelangelo-and-the-pope's-ceiling> <http://schema.org/datePublished> "2003" .
+<http://www.goodreads.com/book/show/27876293-cooking-for-picasso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/27876293-cooking-for-picasso> <http://schema.org/identifier> "27876293" .
+<http://www.goodreads.com/book/show/27876293-cooking-for-picasso> <http://schema.org/name> "Cooking for Picasso" .
+<http://www.goodreads.com/book/show/27876293-cooking-for-picasso> <http://schema.org/creator> "Camille Aubray" .
+<http://www.goodreads.com/book/show/27876293-cooking-for-picasso> <http://schema.org/isbn> "9780399177675" .
+<http://www.goodreads.com/book/show/27876293-cooking-for-picasso> <http://schema.org/publisher> "Ballantine Books" .
+<http://www.goodreads.com/book/show/27876293-cooking-for-picasso> <http://schema.org/numberOfPages> "400"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/27876293-cooking-for-picasso> <http://schema.org/datePublished> "2016" .
+<http://www.goodreads.com/book/show/203805-vincent-van-gogh:-the-complete-paintings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/203805-vincent-van-gogh:-the-complete-paintings> <http://schema.org/identifier> "203805" .
+<http://www.goodreads.com/book/show/203805-vincent-van-gogh:-the-complete-paintings> <http://schema.org/name> "Vincent Van Gogh: The Complete Paintings" .
+<http://www.goodreads.com/book/show/203805-vincent-van-gogh:-the-complete-paintings> <http://schema.org/creator> "Rainer Metzger" .
+<http://www.goodreads.com/book/show/203805-vincent-van-gogh:-the-complete-paintings> <http://schema.org/isbn> "9783822812150" .
+<http://www.goodreads.com/book/show/203805-vincent-van-gogh:-the-complete-paintings> <http://schema.org/publisher> "Taschen" .
+<http://www.goodreads.com/book/show/203805-vincent-van-gogh:-the-complete-paintings> <http://schema.org/numberOfPages> "740"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/203805-vincent-van-gogh:-the-complete-paintings> <http://schema.org/datePublished> "2001" .
+<http://www.goodreads.com/book/show/2693801-history-of-art> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/2693801-history-of-art> <http://schema.org/identifier> "2693801" .
+<http://www.goodreads.com/book/show/2693801-history-of-art> <http://schema.org/name> "History of Art" .
+<http://www.goodreads.com/book/show/2693801-history-of-art> <http://schema.org/creator> "H.W. Janson" .
+<http://www.goodreads.com/book/show/2693801-history-of-art> <http://schema.org/isbn> "9780500237519" .
+<http://www.goodreads.com/book/show/2693801-history-of-art> <http://schema.org/publisher> "Thames and Hudson" .
+<http://www.goodreads.com/book/show/2693801-history-of-art> <http://schema.org/numberOfPages> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/2693801-history-of-art> <http://schema.org/datePublished> "1997" .
+<http://www.goodreads.com/book/show/10505-history-of-beauty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/10505-history-of-beauty> <http://schema.org/identifier> "10505" .
+<http://www.goodreads.com/book/show/10505-history-of-beauty> <http://schema.org/name> "History of Beauty" .
+<http://www.goodreads.com/book/show/10505-history-of-beauty> <http://schema.org/creator> "Umberto Eco" .
+<http://www.goodreads.com/book/show/10505-history-of-beauty> <http://schema.org/isbn> "9780847826469" .
+<http://www.goodreads.com/book/show/10505-history-of-beauty> <http://schema.org/publisher> "Rizzoli" .
+<http://www.goodreads.com/book/show/10505-history-of-beauty> <http://schema.org/numberOfPages> "432"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/10505-history-of-beauty> <http://schema.org/datePublished> "2004" .
+<http://www.goodreads.com/book/show/6988014-seven-days-in-the-art-world> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/6988014-seven-days-in-the-art-world> <http://schema.org/identifier> "6988014" .
+<http://www.goodreads.com/book/show/6988014-seven-days-in-the-art-world> <http://schema.org/name> "Seven Days in the Art World" .
+<http://www.goodreads.com/book/show/6988014-seven-days-in-the-art-world> <http://schema.org/creator> "Sarah Thornton" .
+<http://www.goodreads.com/book/show/6988014-seven-days-in-the-art-world> <http://schema.org/isbn> "9780393337129" .
+<http://www.goodreads.com/book/show/6988014-seven-days-in-the-art-world> <http://schema.org/publisher> "W. W. Norton & Company" .
+<http://www.goodreads.com/book/show/6988014-seven-days-in-the-art-world> <http://schema.org/numberOfPages> "320"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/6988014-seven-days-in-the-art-world> <http://schema.org/datePublished> "2009" .
+<http://www.goodreads.com/book/show/567616-the-art-book> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/567616-the-art-book> <http://schema.org/identifier> "567616" .
+<http://www.goodreads.com/book/show/567616-the-art-book> <http://schema.org/name> "The Art Book" .
+<http://www.goodreads.com/book/show/567616-the-art-book> <http://schema.org/creator> "Phaidon Press" .
+<http://www.goodreads.com/book/show/567616-the-art-book> <http://schema.org/isbn> "9780714836256" .
+<http://www.goodreads.com/book/show/567616-the-art-book> <http://schema.org/publisher> "Phaidon Press" .
+<http://www.goodreads.com/book/show/567616-the-art-book> <http://schema.org/numberOfPages> "515"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/567616-the-art-book> <http://schema.org/datePublished> "1997" .
+<http://www.goodreads.com/book/show/165718-why-art-cannot-be-taught:-a-handbook-for-art-students> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/165718-why-art-cannot-be-taught:-a-handbook-for-art-students> <http://schema.org/identifier> "165718" .
+<http://www.goodreads.com/book/show/165718-why-art-cannot-be-taught:-a-handbook-for-art-students> <http://schema.org/name> "Why Art Cannot be Taught: A Handbook for Art Students" .
+<http://www.goodreads.com/book/show/165718-why-art-cannot-be-taught:-a-handbook-for-art-students> <http://schema.org/creator> "James Elkins" .
+<http://www.goodreads.com/book/show/165718-why-art-cannot-be-taught:-a-handbook-for-art-students> <http://schema.org/isbn> "9780252069505" .
+<http://www.goodreads.com/book/show/165718-why-art-cannot-be-taught:-a-handbook-for-art-students> <http://schema.org/publisher> "University of Illinois Press" .
+<http://www.goodreads.com/book/show/165718-why-art-cannot-be-taught:-a-handbook-for-art-students> <http://schema.org/numberOfPages> "224"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/165718-why-art-cannot-be-taught:-a-handbook-for-art-students> <http://schema.org/datePublished> "2001" .
+<http://www.goodreads.com/book/show/15778-the-art-of-looking-sideways> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+<http://www.goodreads.com/book/show/15778-the-art-of-looking-sideways> <http://schema.org/identifier> "15778" .
+<http://www.goodreads.com/book/show/15778-the-art-of-looking-sideways> <http://schema.org/name> "The Art of Looking Sideways" .
+<http://www.goodreads.com/book/show/15778-the-art-of-looking-sideways> <http://schema.org/creator> "Alan Fletcher" .
+<http://www.goodreads.com/book/show/15778-the-art-of-looking-sideways> <http://schema.org/isbn> "9780714834498" .
+<http://www.goodreads.com/book/show/15778-the-art-of-looking-sideways> <http://schema.org/publisher> "Phaidon Press" .
+<http://www.goodreads.com/book/show/15778-the-art-of-looking-sideways> <http://schema.org/numberOfPages> "533"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.goodreads.com/book/show/15778-the-art-of-looking-sideways> <http://schema.org/datePublished> "2001" .
