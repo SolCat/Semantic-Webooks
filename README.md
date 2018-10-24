@@ -1,4 +1,5 @@
 # Semantic-Webooks
-A Web semantic project about art books
+A Web semantic project about art books available on https://www.goodreads.com/.
 
-24/10/2018: CSV-to-RDF conversion
+1. CSV-to-RDF conversion
+2. SPARQL Queries
