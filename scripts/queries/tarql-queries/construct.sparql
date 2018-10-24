@@ -8,14 +8,14 @@ CONSTRUCT{
     sch:name ?Title;
     sch:creator ?Author;
     sch:isbn: ?ISBN13;
-    sch:aggregateRating ?mark
+    sch:aggregateRating ?mark;
     sch:publisher ?Publisher;
     sch:numberOfPages ?nbPages;
     sch:datePublished ?Year_Published.
 }
 FROM <file:goodreads_library_export.csv>
 WHERE{
-  BIND(URI(CONCAT('https://www.goodreads.com/book/show/',?Book_Id,'-',REPLACE(LCASE(?titre), " ", "-")) AS ?bookURI)
+  BIND(URI(CONCAT('https://www.goodreads.com/book/show/',?Book_Id,'-',REPLACE(LCASE(?titre), " ", "-")) AS ?bookURI))
   BIND(xsd:integer(?Number_of_Pages) AS ?nbPages)
   BIND(xsd:decimal(?Average_Rating) AS ?mark)
 }
