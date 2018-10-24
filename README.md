@@ -9,6 +9,12 @@ See also: http://linkeddatabook.com/editions/1.0/#htoc8
 - Tarql
 - Apache Jena
 
+## Built With
+- [Maven](https://maven.apache.org/) - Dependency Management
+
 ## Steps
 1. CSV-to-RDF conversion: scripts/queries/tarql-queries/construct.sparql
 2. SPARQL Queries
+
+## Author
+Solène Catella
